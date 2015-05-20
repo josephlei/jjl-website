@@ -4,7 +4,7 @@ email: joseph.lei@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Articles about my data research and other miscellaneous topics, these sentences appear in jekyll document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/jjl-website" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://josephlei.com" # the base hostname & protocol for your site
 twitter_username: josephjlei
 github_username:  josephlei
