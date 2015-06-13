@@ -7,7 +7,7 @@ published: true
 ---
 
 ###A random collection of useful bits I want to remember as I learn
-#### (Also.. so I can erase it off ALL THE WHITEBOARDS)
+####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
 ####**Updated 2015-06-13**
 
