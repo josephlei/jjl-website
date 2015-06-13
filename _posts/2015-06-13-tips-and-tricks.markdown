@@ -11,4 +11,4 @@ published: true
 ####**Updated 2015-06-13**
 
 * echo $PATH gives you a colon separated list of your path environment variable
-*..*echo $PATH > filename
+..*echo $PATH > filename
