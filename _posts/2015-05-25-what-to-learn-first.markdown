@@ -16,7 +16,8 @@ These challenges are compounded when you consider what a potential employer or f
 
 Very importantly, I have to often remind myself to consider the bigger picture of life, happiness, balance, relaxation and family.  We are human, we can only push ourselves so hard.. that may mean that on this side of eternity we may not get to where we think we want to be, but how often have we found ourselves finally "there," just to realize that "there" is nowhere at all
 
-####**With that said, here's what I'm currently learning in no particular order :)**
+####*With that said, here's what I'm currently learning in no particular order :)*
+
 ####Updated 2015-06-13
 
 1. Python 2.x (while eyeballing 3.x)
