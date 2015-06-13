@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "So much internets, so little time.. (what I'm learning now)"
-date:   2015-06-13
+title: "So much internets, so little time.. (what I'm learning now)"
+date:  2015-06-13
 categories: 
 published: true
 ---
 
 ###Information Overload
 
-As someone who strives to continue learning everyday, living in the 21st century is both a blessing and a curse.  At no time in history has information and education been more accessible through open courseware, massive open online courses (MOOCs) and the proliferation of the internet. 
+As someone who strives to continue learning everyday, living in the 21st century is both a blessing and a curse. At no time in history has information and education been more accessible through open courseware, massive open online courses (MOOCs) and the proliferation of the internet. 
 
 However, as many of us know.. this isn't always a good thing.  How do I decide what is the most important skill to learn, how do I evaluate the highest "net present value" of time spent and also the big question, does it make more sense to get good at one skill at a time (specialist) or try to learn two or three skills at a time (generalist).
 
@@ -20,9 +20,11 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####**Updated 2015-06-13**
 
-1. Python 2.x (while eyeballing 3.x)
-2. Python Pandas
-3. Virtual Env/conda env
-4. SAS SQL 1 set operators (vertical table joins)
-5. VIM (like BASHing my head against a brick wall)
-6. .SH scripts
+* Python 2.x (while eyeballing 3.x)
+* Python Pandas
+* Virtual Env/conda env
+* SAS SQL 1 set operators (vertical table joins)
+* VIM (like BASHing my head against a brick wall)
+* .SH scripts
+* Python decorators and comprehentions
+* Regex (AND overcoming Red Green color blindness in one step!)
