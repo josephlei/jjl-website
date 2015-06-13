@@ -7,6 +7,7 @@ published: true
 ---
 
 ###A random collection of useful bits I want to remember as I learn
+
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
 ####**Updated 2015-06-13**
@@ -22,3 +23,4 @@ published: true
     (**READ**: `space` `space` `asterisk` `space` enteryourtexthere) YES it is very exacting
 * Change permissions with `chmod 700 filename` using octal notation or permission +/-/= notation
 * Rename a file by moving it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
+* Markdown headings must be separated by a new line, otherwise the 2nd heading markdown won't take effect
