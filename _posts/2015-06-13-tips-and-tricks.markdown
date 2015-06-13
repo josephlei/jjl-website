@@ -17,5 +17,5 @@ published: true
 
     `..*.enteryourtexthere` 
 
-    (**READ**: space space asterisk space enteryourtexthere) YES it is very exacting
+    (**READ**: `space` `space` `asterisk` `space` enteryourtexthere) YES it is very exacting
 * Change permissions with `chmod 700 filename` using octal notation or permission +/-/= notation
