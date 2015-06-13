@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What to learn first, so much internets, so little time.."
+title:  "So much internets, so little time.. (what I'm learning now)"
 date:   2015-05-25
 categories: 
 published: true
@@ -21,5 +21,6 @@ With that said, here's what I'm currently learning in no particular order :)
 1. Python 2.x (while eyeballing 3.x)
 2. Python Pandas
 3. Virtual Env/conda env
-4. SAS SQL 1 vertical set operators
-5. 
+4. SAS SQL 1 set operators (vertical table joins)
+5. VIM (like BASHing my head against a brick wall)
+6. .SH scripts
