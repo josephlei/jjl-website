@@ -3,7 +3,7 @@ layout: post
 title:  "What to learn first, so much internets, so little time.."
 date:   2015-05-25
 categories: 
-published: false
+published: true
 ---
 
 ###Information Overload
@@ -15,3 +15,11 @@ However, as many of us know.. this isn't always a good thing.  How do I decide w
 These challenges are compounded when you consider what a potential employer or future employer might or might not value.  While Google definitely values hard technical skills, being the world's absolute best developer without Googliness or a spirit of innovation might not lead to a positive outcome.
 
 Very importantly, I have to often remind myself to consider the bigger picture of life, happiness, balance, relaxation and family.  We are human, we can only push ourselves so hard.. that may mean that on this side of eternity we may not get to where we think we want to be, but how often have we found ourselves finally "there," just to realize that "there" is nowhere at all
+
+With that said, here's what I'm currently learning in no particular order :)
+
+1. Python 2.x (while eyeballing 3.x)
+2. Python Pandas
+3. Virtual Env/conda env
+4. SAS SQL 1 vertical set operators
+5. 
