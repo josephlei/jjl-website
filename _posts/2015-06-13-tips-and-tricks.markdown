@@ -12,3 +12,4 @@ published: true
 
 * echo $PATH gives you a colon separated list of your path environment variable
   * echo $PATH > filename
+* To use a markdown bulleted list WITHIN another bulleted list, the syntax is EXACTLY as follows on a separate line following the "outer" bullet, replace periods with SPACES: "..*.texthere"
