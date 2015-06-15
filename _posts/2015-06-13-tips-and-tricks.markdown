@@ -37,3 +37,6 @@ published: true
 * `!!` gives you the last entered COMMAND
 * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
 * `open .` opens the current working directory in finder
+* `pip install -r requirements.txt` installs the packages specified in requirements.txt, -r flag necessary
+* `pip freeze > stable-req.txt` dumps out the current library env to a file named stable-req.txt
+* `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
