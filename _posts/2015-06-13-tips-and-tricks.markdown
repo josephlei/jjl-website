@@ -10,7 +10,7 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-06-13**
+####**Updated 2015-06-15**
 
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory
@@ -26,13 +26,14 @@ published: true
   * WRITE = 2
   * EXEC = 1
   * NOTHING = 0
+  * +/-/= (examples coming soon)
   * Explore recursive opt via -r/-R?
   * User/Group/Other? TBD will change
   * Use `ls -l<d> file/dir` to list with permissions
 * Rename a file by moving it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
 * Markdown headings must be separated by a new line, otherwise the 2nd heading markdown won't take effect
 * Explore CURL/GREP/WGET
-* `$history` for prev commands, then use !### to execute
+* `$history` for prev commands, then use `!###` to execute
 * `!!` gives you the last entered COMMAND
 * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
 * `open .` opens the current working directory in finder
