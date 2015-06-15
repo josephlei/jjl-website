@@ -2,8 +2,7 @@
 title: Musings of a Data Monkey
 email: joseph.lei@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Articles about my data research and other miscellaneous topics, these sentences appear in jekyll document head meta (for
-  Google search results) and in your feed.xml site description.
+  Articles about my data research and other miscellaneous topics
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://josephlei.com" # the base hostname & protocol for your site
 twitter_username: josephjlei
@@ -11,3 +10,5 @@ github_username:  josephlei
 
 # Build settings
 markdown: kramdown
+
+# description sentences appear in jekyll document head meta (for Google search results) and in your feed.xml site description.
