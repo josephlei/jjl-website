@@ -22,5 +22,17 @@ published: true
 
     (**READ**: `space` `space` `asterisk` `space` enteryourtexthere) YES it is very exacting
 * Change permissions with `chmod 700 filename` using octal notation or permission +/-/= notation
+  * READ = 4
+  * WRITE = 2
+  * EXEC = 1
+  * NOTHING = 0
+  * Explore recursive opt via -r/-R?
+  * User/Group/Other? TBD will change
+  * Use `ls -l<d> file/dir` to list with permissions
 * Rename a file by moving it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
 * Markdown headings must be separated by a new line, otherwise the 2nd heading markdown won't take effect
+* Explore CURL/GREP/WGET
+* `$history` for prev commands, then use !### to execute
+* `!!` gives you the last entered COMMAND
+* `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
+* `open .` opens the current working directory in finder
