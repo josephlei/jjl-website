@@ -33,6 +33,7 @@ published: true
 * Rename a file by moving it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
 * Markdown headings must be separated by a new line, otherwise the 2nd heading markdown won't take effect
 * Explore CURL/GREP/WGET
+  * ex: wget http://www.regular-expressions.info -r -l 2 (recursive, depth of TWO)
 * `$history` for prev commands, then use `!###` to execute
 * `!!` gives you the last entered COMMAND
 * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
@@ -40,3 +41,4 @@ published: true
 * `pip install -r requirements.txt` installs the packages specified in requirements.txt, -r flag necessary
 * `pip freeze > stable-req.txt` dumps out the current library env to a file named stable-req.txt
 * `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
+* `cd -` to toggle between last two active dirs
