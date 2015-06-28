@@ -18,14 +18,17 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-06-13**
+####**Updated 2015-06-28**
 
 * Python 2.x (while eyeballing 3.x)
 * Python Pandas
 * Virtual Env/conda env
-* SAS SQL 1 set operators (vertical table joins)
-* VIM (like BASHing my head against a brick wall)
+* SQL set operators (vertical table joins)
+* VIM (which I'm currently using to edit this document)
 * .SH scripts
 * Python decorators and comprehentions
 * Regex (AND overcoming Red Green color blindness in one step!)
 * Docker/boot to Docker
+* cURL + GET vs. POST
+* Scrapy
+* Beautiful Soup 4
