@@ -42,3 +42,6 @@ published: true
 * `pip freeze > stable-req.txt` dumps out the current library env to a file named stable-req.txt
 * `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
 * `cd -` to toggle between last two active dirs
+* `None` is the python equivalent of Null (i.e. if x==None)?
+* VIM `:q!` quits and discards changes
+* `scrapy version` displays version.. duh (no need for -- prefix)
