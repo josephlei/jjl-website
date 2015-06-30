@@ -45,3 +45,4 @@ published: true
 * `None` is the python equivalent of Null (i.e. if x==None)?
 * VIM `:q!` quits and discards changes
 * `scrapy version` displays version.. duh (no need for -- prefix)
+* edit `~/.bash_profile` add `alias ll='ls -l'`
