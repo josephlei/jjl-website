@@ -45,4 +45,5 @@ published: true
 * `None` is the python equivalent of Null (i.e. if x==None)?
 * VIM `:q!` quits and discards changes
 * `scrapy version` displays version.. duh (no need for -- prefix)
-* edit `~/.bash_profile` add `alias ll='ls -l'`
+* `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
+* `~/.bash_profile` add `export PATH="$PATH:~/scripts"` to add scripts dir to path, global .sh/any cmds
