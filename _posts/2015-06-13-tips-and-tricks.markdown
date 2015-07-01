@@ -10,7 +10,7 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-06-15**
+####**Updated 2015-06-30**
 
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory
@@ -47,3 +47,20 @@ published: true
 * `scrapy version` displays version.. duh (no need for -- prefix)
 * `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
 * `~/.bash_profile` add `export PATH="$PATH:~/scripts"` to add scripts dir to path, global .sh/any cmds
+* on OSX homebrew is used instead of apt-get
+* test `brew update` via wifi, not tethered
+
+  Ctrl + a   Go to the beginning of the line (Home)
+  Ctrl + e   Go to the End of the line (End)
+  Ctrl + p   Previous command (Up arrow)
+  Ctrl + n   Next command (Down arrow)
+   Alt + b   Back (left) one word      or use Option+Right-Arrow
+   Alt + f   Forward (right) one word  or use Option+Left-Arrow
+  Ctrl + f   Forward one character
+  Ctrl + b   Backward one character
+  Ctrl + xx  Toggle between the start of line and current cursor position
+  Ctrl + l   clear screen, does NOT clear buffer/history, simple $clear
+  Ctrl + U   Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
+  ctrl + H   backspace
+  ctrl + D   exit
+find out what xcode 11 cmd line tools is/means
