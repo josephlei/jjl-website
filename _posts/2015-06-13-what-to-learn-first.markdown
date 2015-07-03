@@ -18,19 +18,17 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-07-02**
+####**Updated 2015-07-03**
 
 * Python 2.x (while eyeballing 3.x)
-* Python Pandas
+* Python libraries: Pandas, Requests
+* Python web frameworks: Django/Flask/Bottle
 * Virtual Env/conda env
 * SQL set operators (vertical table joins)
 * VIM (which I'm currently using to edit this document)
-* .SH scripts
+* .SH scripts ~/dir path operations
 * Python decorators and comprehentions
-* Regex (AND overcoming Red Green color blindness in one step!)
+* Regex (AND overcoming Red Green color blindness in one step! edit: accomplished via cURL and modifying .CSS)
 * Docker/boot to Docker
 * cURL + GET vs. POST
-* Scrapy
-* Beautiful Soup 4
-* Django/Flask/Bottle
-* Requests lib
+* HTML parsing: Scrapy, Beautiful Soup 4
