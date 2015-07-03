@@ -18,7 +18,7 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-06-28**
+####**Updated 2015-07-02**
 
 * Python 2.x (while eyeballing 3.x)
 * Python Pandas
@@ -32,3 +32,5 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 * cURL + GET vs. POST
 * Scrapy
 * Beautiful Soup 4
+* Django/Flask/Bottle
+* Requests lib

@@ -48,7 +48,7 @@ published: true
 * `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
 * `~/.bash_profile` add `export PATH="$PATH:~/scripts"` to add scripts dir to path, global .sh/any cmds
 * on OSX homebrew is used instead of apt-get
-* test `brew update` via wifi, not tethered
+* `brew update` via wifi, lots of dx xfer
 
   Ctrl + a   Go to the beginning of the line (Home)
   Ctrl + e   Go to the End of the line (End)
@@ -64,3 +64,6 @@ published: true
   ctrl + H   backspace
   ctrl + D   exit
 find out what xcode 11 cmd line tools is/means
+
+in Word, ^t is the find/replace for "tab"
+^p for newline (ie. carriage return/Paragraph mark)
