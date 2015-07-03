@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So much internets, so little time.. (what I'm learning now)"
-date: 2015-06-13
+date: 2015-07-03
 categories: 
 published: true
 ---
@@ -22,7 +22,7 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 * Python 2.x (while eyeballing 3.x)
 * Python libraries: Pandas, Requests
-* Python web frameworks: Django/Flask/Bottle
+* Python web frameworks: Django/Flask/Bottle/webapp2
 * Virtual Env/conda env
 * SQL set operators (vertical table joins)
 * VIM (which I'm currently using to edit this document)
