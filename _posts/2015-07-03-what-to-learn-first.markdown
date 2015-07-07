@@ -18,7 +18,7 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-07-03**
+####**Updated 2015-07-07**
 
 * Python 2.x (while eyeballing 3.x)
 * Python libraries: Pandas, Requests
