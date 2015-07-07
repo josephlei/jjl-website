@@ -39,6 +39,8 @@ published: true
 * `scrapy version` displays version.. duh (no need for -- prefix)
 * on OSX, homebrew is used instead of apt-get
 * `brew update` to update all libs, only exec via wifi, high dx xfer
+* find out what xcode 11 cmd line tools is/means
+* in Word, ^t is the find/replace for "tab", ^p for newline (ie. carriage return/Paragraph mark)
 
 * Virtualenv + Condaenv
   * `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
@@ -47,8 +49,7 @@ published: true
   * `None` is the python equivalent of Null (i.e. if x==None)
 
 * Term/shell
-  * `!!` gives you the last entered COMMAND
-    * `sudo !!` to enable root w/o re-typing
+  * `!!` gives you the last entered COMMAND, `sudo !!` to root last w/o re-typing
   * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
   * `open .` opens the current working directory in finder, replace `.` with filename to open w/linked def app
   * `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
@@ -72,8 +73,6 @@ published: true
   * Ctrl + U Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
   * ctrl + H backspace
   * ctrl + D exit
-* find out what xcode 11 cmd line tools is/means
-* in Word, ^t is the find/replace for "tab", ^p for newline (ie. carriage return/Paragraph mark)
 
 * Regex
   * `\n` is for newline
