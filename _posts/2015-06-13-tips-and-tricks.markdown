@@ -10,7 +10,7 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-06-30**
+####**Updated 2015-07-07**
 
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory
@@ -34,22 +34,31 @@ published: true
 * Markdown headings must be separated by a new line, otherwise the 2nd heading markdown won't take effect
 * Explore CURL/GREP/WGET
   * ex: wget http://www.regular-expressions.info -r -l 2 (recursive, depth of TWO)
-* `$history` for prev commands, then use `!###` to execute
-* `!!` gives you the last entered COMMAND
-* `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
-* `open .` opens the current working directory in finder
+
 * `pip install -r requirements.txt` installs the packages specified in requirements.txt, -r flag necessary
 * `pip freeze > stable-req.txt` dumps out the current library env to a file named stable-req.txt
-* `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
-* `cd -` to toggle between last two active dirs
-* `None` is the python equivalent of Null (i.e. if x==None)?
 * `scrapy version` displays version.. duh (no need for -- prefix)
-* `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
-* `~/.bash_profile` add `export PATH="$PATH:~/scripts"` to add scripts dir to path, global .sh/any cmds
 * on OSX, homebrew is used instead of apt-get
 * `brew update` to update all libs, only exec via wifi, high dx xfer
 
-* VIM `:q!` quits and discards changes
+* Virtualenv + Condaenv
+  * `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
+  
+* Python
+  * `None` is the python equivalent of Null (i.e. if x==None)
+
+*Term/shell
+  * `!!` gives you the last entered COMMAND
+    * `sudo !!` to enable root w/o re-typing
+  * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
+  * `open .` opens the current working directory in finder, replace `.` with filename to open w/linked def app
+  * `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
+  * `~/.bash_profile` add `export PATH="$PATH:~/scripts"` to add scripts dir to path, global .sh/any cmds
+  * `$history` for prev commands, then use `!###` to execute
+  * `cd -` to toggle between last two active dirs
+
+* VIM
+  * `:q!` quits and discards changes
   * Ctrl + a Go to the beginning of the line (Home)
   * Ctrl + e Go to the End of the line (End)
   * Ctrl + p Previous command (Up arrow)
