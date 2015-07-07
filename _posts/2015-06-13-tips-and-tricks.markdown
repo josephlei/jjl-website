@@ -43,27 +43,25 @@ published: true
 * `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
 * `cd -` to toggle between last two active dirs
 * `None` is the python equivalent of Null (i.e. if x==None)?
-* VIM `:q!` quits and discards changes
 * `scrapy version` displays version.. duh (no need for -- prefix)
 * `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
 * `~/.bash_profile` add `export PATH="$PATH:~/scripts"` to add scripts dir to path, global .sh/any cmds
-* on OSX homebrew is used instead of apt-get
-* `brew update` via wifi, lots of dx xfer
+* on OSX, homebrew is used instead of apt-get
+* `brew update` to update all libs, only exec via wifi, high dx xfer
 
-  Ctrl + a   Go to the beginning of the line (Home)
-  Ctrl + e   Go to the End of the line (End)
-  Ctrl + p   Previous command (Up arrow)
-  Ctrl + n   Next command (Down arrow)
-   Alt + b   Back (left) one word      or use Option+Right-Arrow
-   Alt + f   Forward (right) one word  or use Option+Left-Arrow
-  Ctrl + f   Forward one character
-  Ctrl + b   Backward one character
-  Ctrl + xx  Toggle between the start of line and current cursor position
-  Ctrl + l   clear screen, does NOT clear buffer/history, simple $clear
-  Ctrl + U   Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
-  ctrl + H   backspace
-  ctrl + D   exit
-find out what xcode 11 cmd line tools is/means
-
-in Word, ^t is the find/replace for "tab"
-^p for newline (ie. carriage return/Paragraph mark)
+* VIM `:q!` quits and discards changes
+  * Ctrl + a Go to the beginning of the line (Home)
+  * Ctrl + e Go to the End of the line (End)
+  * Ctrl + p Previous command (Up arrow)
+  * Ctrl + n Next command (Down arrow)
+  * Alt + b Back (left) one word or use Option+Right-Arrow
+  * Alt + f Forward (right) one word or use Option+Left-Arrow
+  * Ctrl + f Forward one character (same as right arrow)
+  * Ctrl + b Backward one character (same as left arrow)
+  * Ctrl + xx Toggle between the start of line and current cursor position
+  * Ctrl + l clear screen, does NOT clear buffer/history, simple equiv to `$clear`
+  * Ctrl + U Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
+  * ctrl + H backspace
+  * ctrl + D exit
+* find out what xcode 11 cmd line tools is/means
+* in Word, ^t is the find/replace for "tab", ^p for newline (ie. carriage return/Paragraph mark)
