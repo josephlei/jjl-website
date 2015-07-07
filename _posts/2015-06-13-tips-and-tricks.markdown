@@ -65,3 +65,7 @@ published: true
   * ctrl + D exit
 * find out what xcode 11 cmd line tools is/means
 * in Word, ^t is the find/replace for "tab", ^p for newline (ie. carriage return/Paragraph mark)
+
+* Regex
+  * `\n` is for newline
+  * `<.*>` to select inside tags
