@@ -32,3 +32,17 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 * Docker/boot to Docker
 * cURL + GET vs. POST
 * HTML parsing: Scrapy, Beautiful Soup 4
+* CRONtab/launchd scheduling via remote SSH server (currently Digital Ocean on Ubuntu 14.04)
+
+####*Lower priority items*
+
+* Leaflet
+* Front end, UI/UX
+* PGP encryption GPG command line hash verify
+* MongoDB, SQL Lite
+* Python Sci-kit learn, Bokeh Visualization
+* Pentaho for open data visualization
+* Cassandra
+* Apache Spark
+* Scala
+
