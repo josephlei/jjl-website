@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So much internets, so little time.. (what I'm learning now)"
-date: 2015-07-03
+date: 2015-07-07
 categories: 
 published: true
 ---
