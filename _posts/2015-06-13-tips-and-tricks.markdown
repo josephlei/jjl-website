@@ -30,7 +30,6 @@ published: true
   * Explore recursive opt via -r/-R?
   * User/Group/Other? TBD will change
   * Use `ls -l<d> file/dir` to list with permissions
-* Rename a file by moving it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
 * Markdown headings must be separated by a new line, otherwise the 2nd heading markdown won't take effect
 * Explore CURL/GREP/WGET
   * ex: wget http://www.regular-expressions.info -r -l 2 (recursive, depth of TWO)
@@ -43,11 +42,11 @@ published: true
 
 * Virtualenv + Condaenv
   * `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
-  
+
 * Python
   * `None` is the python equivalent of Null (i.e. if x==None)
 
-*Term/shell
+* Term/shell
   * `!!` gives you the last entered COMMAND
     * `sudo !!` to enable root w/o re-typing
   * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
@@ -56,6 +55,7 @@ published: true
   * `~/.bash_profile` add `export PATH="$PATH:~/scripts"` to add scripts dir to path, global .sh/any cmds
   * `$history` for prev commands, then use `!###` to execute
   * `cd -` to toggle between last two active dirs
+  * Rename a file by "copying" it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
 
 * VIM
   * `:q!` quits and discards changes
