@@ -59,6 +59,12 @@ published: true
   * Rename a file by "copying" it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
 
 * VIM
+  * In edit mode (NOT insert), type a plain letter lowercase `o` to insert a newline BELOW cursor
+  * EDIT MODE:
+    * `$` goes to end of line
+    * `A` goes to end of line AND DELTA INSERT MODE
+    * `0` goes to start of line
+    * `I` goes to start of line AND DELTA INSERT MODE
   * `:q!` quits and discards changes
   * Ctrl + a Go to the beginning of the line (Home)
   * Ctrl + e Go to the End of the line (End)
