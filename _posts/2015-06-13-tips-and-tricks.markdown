@@ -57,6 +57,8 @@ published: true
   * `$history` for prev commands, then use `!###` to execute
   * `cd -` to toggle between last two active dirs
   * Rename a file by "copying" it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
+  * UBUNTU
+    * `sudo dpkg-reconfigure tzdata` to update time zone, may have to restart cron/others with `restart cron`
 
 * VIM
   * In edit mode (NOT insert), type a plain letter lowercase `o` to insert a newline BELOW cursor
