@@ -59,6 +59,10 @@ published: true
   * Rename a file by "copying" it within the same directory i.e. `cp file-x file-y` will rename file-x to file-y
   * UBUNTU
     * `sudo dpkg-reconfigure tzdata` to update time zone, may have to restart cron/others with `restart cron`
+  * `uname -r` to get kernel version
+  * To remove password from .ssh key use `ssh-keygen -p`
+  * `which wget` to check where it is
+  * `lsb_release -a` to check ubuntu + codename i.e. trusty, precise pangolin, etc.
 
 * VIM
   * In edit mode (NOT insert), type a plain letter lowercase `o` to insert a newline BELOW cursor
