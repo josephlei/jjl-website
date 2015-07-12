@@ -86,10 +86,23 @@ published: true
     * `0` goes to start of line
     * `I` goes to start of line AND DELTA INSERT MODE
   * `:q!` quits and discards changes
-  
-
-
 
 * Regex
   * `\n` is for newline
   * `<.*>` to select inside tags
+
+* Docker
+  * `sudo docker -d &` to start the docker daemon if it is not already running
+  * `sudo docker` to see a list of all commands
+  * `sudo docker info`
+  * `sudo docker version`
+  * `sudo docker search ubuntu` example to search for images
+  * `sudo docker pull ubuntu`
+  * `sudo docker images`
+  * `sudo docker commit [container ID] [image name]` example below
+    * `sudo docker commit 8dbd9e392a96 my_img`
+  * `sudo docker push [username/image name]` example below
+    * `sudo docker push my_username/my_first_image`
+  * `sudo docker ps` to list all running containers
+    * `sudo docker ps -l` to list both running and non-running
+  * index.docker.io is the hub (i.e. hub.docker.com) j.l@gmail.com login auto pass
