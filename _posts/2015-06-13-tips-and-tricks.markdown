@@ -63,17 +63,9 @@ published: true
   * To remove password from .ssh key use `ssh-keygen -p`
   * `which wget` to check where it is
   * `lsb_release -a` to check ubuntu + codename i.e. trusty, precise pangolin, etc.
-
-* VIM
-  * In edit mode (NOT insert), type a plain letter lowercase `o` to insert a newline BELOW cursor
-  * EDIT MODE:
-    * `$` goes to end of line
-    * `A` goes to end of line AND DELTA INSERT MODE
-    * `0` goes to start of line
-    * `I` goes to start of line AND DELTA INSERT MODE
-  * `:q!` quits and discards changes
   * Ctrl + a Go to the beginning of the line (Home)
   * Ctrl + e Go to the End of the line (End)
+
   * Ctrl + p Previous command (Up arrow)
   * Ctrl + n Next command (Down arrow)
   * Alt + b Back (left) one word or use Option+Right-Arrow
@@ -85,6 +77,18 @@ published: true
   * Ctrl + U Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
   * ctrl + H backspace
   * ctrl + D exit
+
+* VIM
+  * In edit mode (NOT insert), type a plain letter lowercase `o` to insert a newline BELOW cursor
+  * EDIT MODE:
+    * `$` goes to end of line
+    * `A` goes to end of line AND DELTA INSERT MODE
+    * `0` goes to start of line
+    * `I` goes to start of line AND DELTA INSERT MODE
+  * `:q!` quits and discards changes
+  
+
+
 
 * Regex
   * `\n` is for newline
