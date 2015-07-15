@@ -80,6 +80,10 @@ published: true
 
 * VIM
   * In edit mode (NOT insert), type a plain letter lowercase `o` to insert a newline BELOW cursor
+  * NORMAL MODE:
+    * `x` to delete forward (eat character)
+    * `A` to jumpt to end of line and enter EDIT mode (i.e. append to end of line)
+    * ``
   * EDIT MODE:
     * `$` goes to end of line
     * `A` goes to end of line AND DELTA INSERT MODE
