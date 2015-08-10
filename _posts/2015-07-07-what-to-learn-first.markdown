@@ -18,14 +18,13 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-07-07**
+####**Updated 2015-07-23**
 
 * Python 2.x (while eyeballing 3.x)
 * Python libraries: Pandas, Requests
 * Python web frameworks: Django/Flask/Bottle/webapp2
 * Virtual Env/conda env
-* SQL set operators (vertical table joins)
-* VIM (which I'm currently using to edit this document)
+* VIM
 * .SH scripts ~/dir path operations
 * Python decorators and comprehentions
 * Regex (AND overcoming Red Green color blindness in one step! edit: accomplished via cURL and modifying .CSS)
@@ -33,16 +32,26 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 * cURL + GET vs. POST
 * HTML parsing: Scrapy, Beautiful Soup 4
 * CRONtab/launchd scheduling via remote SSH server (currently Digital Ocean on Ubuntu 14.04)
+* pList for preferences
+* SAS LAGn(arg) and DIFn(arg) (syntax may be wrong)
 
-####*Lower priority items*
+####*Lower Priority Items*
 
 * Leaflet
 * Front end, UI/UX
-* PGP encryption GPG command line hash verify
+* PGP encryption, GPG command line, verify hash
 * MongoDB, SQL Lite
 * Python Sci-kit learn, Bokeh Visualization
 * Pentaho for open data visualization
 * Cassandra
 * Apache Spark
 * Scala
+* Cluster visualization + algorithms, KNN, rForest (via Gephi or other)
+* Basic RSS feed concepts, what is the object notation/machine readable schema?
+* Tamper Monkey for chrome, grease monkey for firefox? (sp?)
+* Ohana API
 
+####*Completed Items*
+
+* SQL Set Operators (vertical table joins)
+* SAS Advanced Certification (yay!)

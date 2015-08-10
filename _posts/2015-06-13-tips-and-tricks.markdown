@@ -65,7 +65,6 @@ published: true
   * `lsb_release -a` to check ubuntu + codename i.e. trusty, precise pangolin, etc.
   * Ctrl + a Go to the beginning of the line (Home)
   * Ctrl + e Go to the End of the line (End)
-
   * Ctrl + p Previous command (Up arrow)
   * Ctrl + n Next command (Down arrow)
   * Alt + b Back (left) one word or use Option+Right-Arrow
@@ -79,12 +78,10 @@ published: true
   * ctrl + D exit
 
 * VIM
-  * In edit mode (NOT insert), type a plain letter lowercase `o` to insert a newline BELOW cursor
-  * NORMAL MODE:
+  * NON-EDIT MODE:
+    * `o` to insert newline BELOW cursor
     * `x` to delete forward (eat character)
     * `A` to jumpt to end of line and enter EDIT mode (i.e. append to end of line)
-    * ``
-  * EDIT MODE:
     * `$` goes to end of line
     * `A` goes to end of line AND DELTA INSERT MODE
     * `0` goes to start of line
