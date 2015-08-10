@@ -16,7 +16,7 @@ With that said, not all items are created equal in the wonderful world of said g
 
 Shoutout to my local dollar store peepz: Armando, Alex
 
-####Stock
+##Stock
 
 **Batteries** - since I've been knee high to a duck and old enough to know what batteries were, I never understood why they cost so dang much.  I get why specialty batteries and critical appliction power cells are pricey, but what in the world $2 to power my remote control? yeah no.. here eight AAA, eight AA or 2 nine-volt batteries are just a single solitary buckaroo, perfect for low drain devices such as a computer mouse, mini flashlight or a tv/stereo remote
 
@@ -46,7 +46,7 @@ Shoutout to my local dollar store peepz: Armando, Alex
 * Bounty single roll (-$0.50 coupon), not the best quality but does the job for simple tasks
 
 
-####Skip
+##Skip
 
 **Frozen Steak** - I thought the whole idea of buying a frozen steak from the dollar store a bit strange, but curiosity got the best of me.  While the steak itself was quite tasty and cooked up in about 30 seconds due to it's thicknes, the packaging reveals that it contains a LOT (maybe 20-30%) of so called flavor enhancing "solution."  Geeky me did some math and it turns out these steaks are over $6 per pound.  At that kind of price, I can get fresh chuck steak from the supermarket next door :)
 
@@ -60,7 +60,7 @@ Shoutout to my local dollar store peepz: Armando, Alex
 
 **Electrical tape** - It might be just me but I think the adhesive expires and turns into a gooey mess way too soon after I bought it
 
-####Merh (items I'm still on the fence about)
+##Merh (items I'm still on the fence about)
 
 **Broom and Dustpan** - sold as two separate items, they are cheaper than you can buy elsewhere.. but they're nothing to write home about in terms of performane and build quality (the dustpan comes apart for easy storage, but this makes it a little flimsy during normal use)
 
