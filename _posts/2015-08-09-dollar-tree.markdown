@@ -14,6 +14,8 @@ Let me just say, I love dollar stores.. not just because of the jankiness that s
 
 With that said, not all items are created equal in the wonderful world of said greenback; some items you should stock.. others, definitely skip
 
+Shoutout to my local dollar store peepz: Armando, Alex
+
 ####Stock
 
 **Batteries** - since I've been knee high to a duck and old enough to know what batteries were, I never understood why they cost so dang much.  I get why specialty batteries and critical appliction power cells are pricey, but what in the world $2 to power my remote control? yeah no.. here eight AAA, eight AA or 2 nine-volt batteries are just a single solitary buckaroo, perfect for low drain devices such as a computer mouse, mini flashlight or a tv/stereo remote
@@ -35,9 +37,13 @@ With that said, not all items are created equal in the wonderful world of said g
 **Cylindrical Mailing Tubes** - $3+ elsewhere
 
 **Other items that are just a great deal (self explanatory)**
+
 * 30 press and seal envelopes
 * Cream/sugar/condiment pourers (like the ones at coffee shops or pizza places)
 * Two pack fly swatters
+* Campbells double noodle chicken noodle soup
+* Corned beef hash
+* Bounty single roll (-$0.50 coupon), not the best quality but does the job for simple tasks
 
 
 ####Skip
@@ -50,9 +56,20 @@ With that said, not all items are created equal in the wonderful world of said g
 
 **Dry Erase Markers** - They suck, stick with Expo
 
-**** - 
+**Hot dog cutter** - Thought it was novel at the time, never used it except that one time..
+
+**Electrical tape** - It might be just me but I think the adhesive expires and turns into a gooey mess way too soon after I bought it
 
 ####Merh (items I'm still on the fence about)
 
-*Broom and Dustpan* - sold as two separate items, they are cheaper than you can buy elsewhere.. but they're nothing to write home about in terms of performane and build quality (the dustpan comes apart for easy storage, but this makes it a little flimsy during normal use)
+**Broom and Dustpan** - sold as two separate items, they are cheaper than you can buy elsewhere.. but they're nothing to write home about in terms of performane and build quality (the dustpan comes apart for easy storage, but this makes it a little flimsy during normal use)
 
+**Frozen Clam Strips** - 3.5 oz of breaded clam strips.. they're decently tasty and cheap, but just not quite as good as the premium store brand names like Trident seafood (about $3 for a slightly larger portion)
+
+**Straws/Napkins** - Merh, I usually bring back extra napkins and maybe an unused straw from starbucks/fast food but it's nice just having a literal gripton of straws and not having to think about it
+
+**Masking tape* - It's cheap enough, but the quality is lacking.. good enough for simple jobs sticking up stuff and not leaving a residue, but I definitely wouldn't paint with it.
+
+**Nail file** - I use it for taking off rough nail edges after clipping.  They don't last very long but the upside is when they're no good anymore you can just cut out a piece of 220 grit sandpaper, glue it on and you're good to go again
+
+**Isopropyl alcohol** - It's either low concentration (~30%) or a really small bottle (maybe 8oz), would probably want to be more safe than sorry if using it to disinfect stuff
