@@ -6,9 +6,9 @@ categories:
 published: true
 ---
 
-###Dollar Tree Shenanigans
+##Dollar Tree Shenanigans
 
-####What to stock, what to skip
+##What to stock, what to skip
 
 Let me just say, I love dollar stores.. not just because of the jankiness that sometimes comes with em' but because there are truly amazing people who work there.. who just happen to provide me great bargains.
 
@@ -38,7 +38,6 @@ Shoutout to my local dollar store peepz: Armando, Alex
 
 **Other items that are just a great deal (self explanatory)**
 
-* 30 press and seal envelopes
 * Cream/sugar/condiment pourers (like the ones at coffee shops or pizza places)
 * Two pack fly swatters
 * Campbells double noodle chicken noodle soup
