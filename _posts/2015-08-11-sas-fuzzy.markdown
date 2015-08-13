@@ -1,0 +1,40 @@
+---
+layout: post
+title: "SAS Fuzzy Matching Logic Notes"
+date: 2015-08-11
+categories: 
+published: true
+---
+
+##SAS Fuzzy Notes for matching fuzzy names/dates/numbers
+
+###Just the important stuff
+
+COMPLEV syntax:
+
+`COMPLEV(string-1, string-2 <, cutoff> <, modifier(s)>)`
+
+COMPLEV modifiers:
+* i: ignore case
+* l: remove leading blanks
+* n: remove quotation marks from SAS name literals "n-literal"
+* colon (:) truncates the longer string to match the shorter string
+
+Find syntax:
+
+`FIND(string, substring <, modifier(s)> <, start-position>)` OR
+`FIND(string, substring <, start-position> <, modifier(s)>)`
+
+FIND notes:
+* Enclose strings in quotation marks
+* Negative startpos searches backwards from the specified position
+
+FIND modifiers:
+* i: ignore case
+* t: trim trailing blanks
+
+from 
+	have as a 
+	inner join 
+	have as b 
+	on (a.id < b.id /* prevents duplicates and self-matches */ AND
