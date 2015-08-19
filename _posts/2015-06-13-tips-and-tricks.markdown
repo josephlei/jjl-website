@@ -10,7 +10,7 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-07-07**
+####**Updated 2015-08-19**
 
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory
@@ -47,6 +47,7 @@ published: true
 
 * Python
   * `None` is the python equivalent of Null (i.e. if x==None)
+  * use backslash to escape quotes in a string, i.e. 'This isn\'t going to cause a problem'
 
 * Term/shell
   * `!!` gives you the last entered COMMAND, `sudo !!` to root last w/o re-typing
