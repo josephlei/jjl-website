@@ -45,9 +45,32 @@ published: true
 * Virtualenv + Condaenv
   * `$source bin/activate` in a virtualenv to activate it, `$deactivate` to deactivate
 
-* Python
+* Python via Codecademy
   * `None` is the python equivalent of Null (i.e. if x==None)
   * use backslash to escape quotes in a string, i.e. 'This isn\'t going to cause a problem'
+  * str methods, len() lower() upper() str()
+  * methods that use dot notation such as lion.upper() only work with STRINGS
+  * `\` is the continuation character, use cases?
+  * raw_input("interrogative") from console (stdin) unless def. differently
+  * not > and > or (order of operations without parens)
+  * x.isalpha() checks if only a-z in str
+  * `import math` is an example of a generic import, brings in all functions and definitions, requires prefix of library before functions i.e. `math.sqrt(25)`
+  * `from module import function` imports just the one function, it is called a "function import" example `from math import sqrt` now you can just type print sqrt(25)
+  * universal import `from math import *`
+  * dir(math) contains everything that was imported
+  * del dictionary['key'] will delete the KVP
+  * LISTS have a remove method via list.remove(item)
+  * "".join(list) joins the elements together with dlm within ""
+  * removing from lists, n.pop(1) removes/returns the item at index 1, n.remove(1) removes the item with VALUE "1" if it finds it, del(n[1]) deleted item at index 1, doesn't return you anything
+  * range(stop), range(start, stop), range(start, stop, step) is a generator, creates a list up to but EXCLUDING stop, def start =0, step=1
+  * `break` takes you out of the current loop, not an entire function
+  * while/else construct, else will run when while becomes false or never runs, will NOT run if it is a result of a break keyword
+  * anonymous functions, anon f(x)s allow "functional programming", can pass functions around as if they were vars or vals.  i.e. no name functions
+   * lambda x:x%3==0 is the same as def by_three(x): return x%3==0
+  * function bin(x) returns the binary equivalent of x, oct(x) and hex(x) for base 8 and 16
+  * int function has an optional 2nd argument int(string containing number, base), example int("111") or int("0b100",2)
+  * right and left bit shifts are the equivalent of floor dividing and multiplying by 2, or shifting all the 1s and 0s to the right or left by the given number, can only be performed on an integer, all others will give gibberish
+  * class scope global var vs. member vars (only to members of a certain class), instance var only avail to particular instances of a class
 
 * Term/shell
   * `!!` gives you the last entered COMMAND, `sudo !!` to root last w/o re-typing
