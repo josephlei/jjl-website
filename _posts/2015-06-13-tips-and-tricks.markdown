@@ -100,6 +100,7 @@ published: true
   * Ctrl + U Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
   * ctrl + H backspace
   * ctrl + D exit
+  * `find . -name 'Screen Shot*' -exec mv -i {} ~/Desktop/Screen\ Shots \;` moves all screen shots on desktop to folder indicated
 
 * VIM
   * NON-EDIT MODE:
