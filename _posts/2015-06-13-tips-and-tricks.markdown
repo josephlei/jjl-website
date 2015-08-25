@@ -10,7 +10,7 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-08-19**
+####**Updated 2015-08-22**
 
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory
@@ -18,7 +18,7 @@ published: true
 
 * To use a markdown bulleted list WITHIN another bulleted list, the syntax is EXACTLY as follows on a separate line following the "outer" bullet, periods are placeholders for spaces:
 
-    `..*.enteryourtexthere` 
+    `..*.enteryourtexthere`
 
     (**READ**: `space` `space` `asterisk` `space` enteryourtexthere) YES it is very exacting
 * Change permissions with `chmod 700 filename` using octal notation or permission +/-/= notation
@@ -101,6 +101,8 @@ published: true
   * ctrl + H backspace
   * ctrl + D exit
   * `find . -name 'Screen Shot*' -exec mv -i {} ~/Desktop/Screen\ Shots \;` moves all screen shots on desktop to folder indicated
+
+  * `$ defaults write com.apple.screencapture location /drag/location/here` followed by `$ killall SystemUIServer` to change ss directory
 
 * VIM
   * NON-EDIT MODE:
