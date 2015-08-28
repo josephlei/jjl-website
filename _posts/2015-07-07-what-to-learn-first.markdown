@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So much internets, so little time.. (what I'm learning now)"
-date: 2015-07-07
+date: 2015-08-27
 categories: 
 published: true
 ---
@@ -18,25 +18,26 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-07-23**
+####**Updated 2015-08-27**
+#####Personal note: I've moved a lot of items that were here to "Lower Priority Items," not because they're not important, but because I'm learning more about how I learn and trying to be honest with myself about what will make the biggest difference, beautifully referred to as "highest net present value" by Nir Kaldero of Galvanize Data Science.  On second thought, this is the crux of this entire article "what to learn first."
 
-* Python 2.x (while eyeballing 3.x)
-* Python libraries: Pandas, Requests
-* Python web frameworks: Django/Flask/Bottle/webapp2
-* Virtual Env/conda env
+* Python 2.7
+* Python libraries: Pandas, Numpy, re (regex)
 * VIM
-* .SH scripts ~/dir path operations
-* Python decorators and comprehentions
-* Regex (AND overcoming Red Green color blindness in one step! edit: accomplished via cURL and modifying .CSS)
-* Docker/boot to Docker
-* cURL + GET vs. POST
-* HTML parsing: Scrapy, Beautiful Soup 4
-* CRONtab/launchd scheduling via remote SSH server (currently Digital Ocean on Ubuntu 14.04)
-* pList for preferences
-* SAS LAGn(arg) and DIFn(arg) (syntax may be wrong)
+* Descriptive/Inferential Statistics
+* Linear Algebra
 
 ####*Lower Priority Items*
 
+* HTML parsing: Scrapy, Beautiful Soup 4
+* Regex (AND overcoming Red Green color blindness in one step! edit: accomplished via cURL and modifying .CSS)
+* CRONtab/launchd scheduling via remote SSH server (currently Digital Ocean on Ubuntu 14.04)
+* pList for preferences
+* Docker/boot to Docker
+* cURL + GET vs. POST* .SH scripts ~/dir path operations
+* Python decorators and comprehentions
+* Virtual Env/conda env
+* Python web frameworks: Django/Flask/Bottle/webapp2
 * Leaflet
 * Front end, UI/UX
 * PGP encryption, GPG command line, verify hash
@@ -55,3 +56,4 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 * SQL Set Operators (vertical table joins)
 * SAS Advanced Certification (yay!)
+* SAS LAGn(arg) and DIFn(arg) (syntax may be wrong)
