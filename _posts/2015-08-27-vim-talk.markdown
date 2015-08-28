@@ -24,3 +24,8 @@ https://www.youtube.com/watch?v=SkdrYWhh-8s
 * cmd + T (fuzzy finder matcher)
 * 14 G (14 + shift + g) jumps you to line 14
 * learn motions (nouns) cmd (verbs)
+
+###Actions Taken
+
+* bash_profile
+ * Alias gis='git status'
