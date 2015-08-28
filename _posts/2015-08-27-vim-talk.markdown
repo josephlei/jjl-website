@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Expert VIM"
+date: 2015-08-27
+categories: 
+published: true
+---
+
+###Takeaways from Ben Orenstein's talk on expert VIM
+
+https://www.youtube.com/watch?v=SkdrYWhh-8s
+
+* You need to be "obnoxiously intolerant of typing" (TL;DR - demand a one keystroke solution over two keystrokes)
+* Focus on the things you do frequently
+ * Solution: map something (ex. ctrl+s) to replace esc+shift+colon+w
+ * Leader commands, binding short mappings to longer commands
+ * Infrequent operations, but slow operations
+ * Map typos you do all the time, ex. git psuh instead of git push, make it do the same thing
+* Have a cheat sheet, 7 +/- 2 commands, train it
+ * if you see you're not using it, remove it
+ * once it's in your brain, remove it
+* VIM rc config file
+* Use the help (:h)
+* cmd + T (fuzzy finder matcher)
+* 14 G (14 + shift + g) jumps you to line 14
+* learn motions (nouns) cmd (verbs)
