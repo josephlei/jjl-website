@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=SkdrYWhh-8s
 ###Actions Taken
 
 * bash_profile
- * Alias gis='git status'
+ * `alias gis = 'git status'` potential future conflict w/carto tools, worry about it when i get there
