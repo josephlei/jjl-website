@@ -10,7 +10,7 @@ published: true
 
 ####Decided to separate the one huge tips and tricks page into discrete topics
 
-####**Updated 2015-08-22**
+####**Updated 2015-08-30**
 
 * `dd` deletes the line you're on
 * `dG` deletes to end of file (EOF)
@@ -38,3 +38,11 @@ published: true
 * `sed` stands for stream editor, It accepts standard input and modifies it based on an expression, before displaying it as output data. It is similar to "find and replace".
 * `'s/snow/rain/' forests.txt` searches forests.txt for the word snow and replaces it with rain, CAUTION: will only replace the first instance, g option on the end means "global" and match/replaces all instances!
 
+* crontab -l to list all crontabs, optional -u <user>
+* crontab -e to edit crontabs
+source makes changes in the current session instead of needing to restart
+export USER="JJL" creates a global env var that can be used anywhere w/$USER
+export PS1=">> " changes the default prompt from $ to >>
+echo $HOME returns home var
+echo $PATH returns path var, just a list of dirs that contains scripts, many are in /bin
+env returns a list of env vars
