@@ -24,8 +24,6 @@ published: true
 * `:q!` quit (override), discard Δs
 * `:w` write Δs
 
-
-
 * Placeholder for cmd/term/shell, to be moved to appropriate article
  * `ls -alt` list all, including hidden/dir, long format, ordered by mod datetime
 * `ls | grep -i homebrew` to list using grep match, this is awesome

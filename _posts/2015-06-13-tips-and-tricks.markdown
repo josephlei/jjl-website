@@ -72,7 +72,7 @@ published: true
   * right and left bit shifts are the equivalent of floor dividing and multiplying by 2, or shifting all the 1s and 0s to the right or left by the given number, can only be performed on an integer, all others will give gibberish
   * class scope global var vs. member vars (only to members of a certain class), instance var only avail to particular instances of a class
 
-* Term/shell
+* cmd/term/shell/bash
   * `!!` gives you the last entered COMMAND, `sudo !!` to root last w/o re-typing
   * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
   * `open .` opens the current working directory in finder, replace `.` with filename to open w/linked def app
@@ -100,13 +100,40 @@ published: true
   * Ctrl + U Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
   * ctrl + H backspace
   * ctrl + D exit
-  * `find . -name 'Screen Shot*' -exec mv -i {} ~/Desktop/Screen\ Shots \;` moves all screen shots on desktop to folder indicated
+* `ls -alt` list all, including hidden/dir, long format, ordered by mod datetime
+* `ls | grep -i homebrew` to list using grep match, this is awesome
+* cp m*.txt destination_dir
+* cp * destination_dir
+* `cat oceans.txt` displays contents of oceans.txt on stdout
+* `cat a > b` REDIRECTS a on top of b, OVERWRITTING B
+* `cat a >> b` APPENDS a behind b, keeping both
+* `|` is a pipe, redirects left side to right side as stdin, i.e. "command to command redirection"
+* `wc` command outputs lines, words, chars
+* `sort lakes` sorts the contents of lakes and returns it, DOES NOT MOD ORIGINAL
+* `cat lakes.txt | sort > sorted-lakes.txt` pipes the data to sort, output to sorted-lakes
+* `uniq` cmd returns adjacent unduplicated version
+* grep stands for "global regular expression print". It searches files for lines that match a pattern and returns the results. It is also case sensitive
+ * grep -i enables case insensitive search
+* `grep -R Arctic /home/` greps down a directory returning matches
+* `sed` stands for stream editor, It accepts standard input and modifies it based on an expression, before displaying it as output data. It is similar to "find and replace".
+* `'s/snow/rain/' forests.txt` searches forests.txt for the word snow and replaces it with rain, CAUTION: will only replace the first instance, g option on the end means "global" and match/replaces all instances!
 
-  * `$ defaults write com.apple.screencapture location /drag/location/here` followed by `$ killall SystemUIServer` to change ss directory
+* crontab -l to list all crontabs, optional -u <user>
+* crontab -e to edit crontabs
+source makes changes in the current session instead of needing to restart
+export USER="JJL" creates a global env var that can be used anywhere w/$USER
+export PS1=">> " changes the default prompt from $ to >>
+echo $HOME returns home var
+echo $PATH returns path var, just a list of dirs that contains scripts, many are in /bin
+env returns a list of env vars
+
+* `find . -name 'Screen Shot*' -exec mv -i {} ~/Desktop/Screen\ Shots \;` moves all screen shots on desktop to folder indicated
+* `$ defaults write com.apple.screencapture location /drag/location/here` followed by `$ killall SystemUIServer` to change ss directory
 
 * Regex
   * `\n` is for newline
   * `<.*>` to select inside tags
+  * `?` to put back the match (more on this to come)
 
 * Docker
   * `sudo docker -d &` to start the docker daemon if it is not already running
