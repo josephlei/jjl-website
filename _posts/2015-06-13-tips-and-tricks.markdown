@@ -104,17 +104,6 @@ published: true
 
   * `$ defaults write com.apple.screencapture location /drag/location/here` followed by `$ killall SystemUIServer` to change ss directory
 
-* VIM
-  * NON-EDIT MODE:
-    * `o` to insert newline BELOW cursor
-    * `x` to delete forward (eat character)
-    * `A` to jumpt to end of line and enter EDIT mode (i.e. append to end of line)
-    * `$` goes to end of line
-    * `A` goes to end of line AND DELTA INSERT MODE
-    * `0` goes to start of line
-    * `I` goes to start of line AND DELTA INSERT MODE
-  * `:q!` quits and discards changes
-
 * Regex
   * `\n` is for newline
   * `<.*>` to select inside tags

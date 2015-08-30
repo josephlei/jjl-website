@@ -6,9 +6,7 @@ categories:
 published: true
 ---
 
-###The VIM Way
-
-####Decided to separate the one huge tips and tricks page into discrete topics
+####The ones I'm working on integrating/muscle memorizing.. #nomousechallenge
 
 ####**Updated 2015-08-30**
 
@@ -16,7 +14,16 @@ published: true
 * `dG` deletes to end of file (EOF)
 * `d$` deletes to end of line (EOL)
 * `G` takes you to EOF
-* `o` delta insert mode, nav down one line
+* `o` newline below current, Δ insert
+* `$` go to EOL
+* `A` to to EOL, Δ insert
+* `0` go to beginning of line (BOL)
+* `I` go to BOL, Δ insert
+* `x` delete forward (eat character)
+
+* `:q!` quit (override), discard Δs
+* `:w` write Δs
+
 
 
 * Placeholder for cmd/term/shell, to be moved to appropriate article
