@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips and Tricks picked up along the way"
-date: 2015-06-13
+date: 2015-08-30
 categories: 
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-08-22**
+####**Updated 2015-08-30**
 
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory

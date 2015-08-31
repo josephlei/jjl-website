@@ -18,14 +18,15 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-08-27**
+####**Updated 2015-08-30**
 #####Personal note: I've moved a lot of items that were here to "Lower Priority Items," not because they're not important, but because I'm learning more about how I learn and trying to be honest with myself about what will make the biggest difference, beautifully referred to as "highest net present value" by Nir Kaldero of Galvanize Data Science.  On second thought, this is the crux of this entire article "what to learn first."
 
 * Python 2.7
 * Python libraries: Pandas, Numpy, re (regex)
 * VIM
-* Descriptive/Inferential Statistics
-* Linear Algebra
+* Inferential Statistics
+* Linear Algebra via Udacity
+* Machine Learning via Coursera
 
 ####*Lower Priority Items*
 
@@ -57,3 +58,4 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 * SQL Set Operators (vertical table joins)
 * SAS Advanced Certification (yay!)
 * SAS LAGn(arg) and DIFn(arg) (syntax may be wrong)
+* Descriptive Statistics
