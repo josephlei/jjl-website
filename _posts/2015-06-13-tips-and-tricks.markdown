@@ -120,12 +120,12 @@ published: true
 
 * crontab -l to list all crontabs, optional -u <user>
 * crontab -e to edit crontabs
-source makes changes in the current session instead of needing to restart
-export USER="JJL" creates a global env var that can be used anywhere w/$USER
-export PS1=">> " changes the default prompt from $ to >>
-echo $HOME returns home var
-echo $PATH returns path var, just a list of dirs that contains scripts, many are in /bin
-env returns a list of env vars
+* `source` makes changes in the current session instead of needing to restart
+* `export USER="JJL"` creates a global env var that can be used anywhere w/$USER
+* `export PS1=">> "` changes the default prompt from $ to >>
+* `echo $HOME` returns home var
+* `echo $PATH` returns path var, just a list of dirs that contains scripts, many are in /bin
+* `env` returns a list of env vars
 
 * `find . -name 'Screen Shot*' -exec mv -i {} ~/Desktop/Screen\ Shots \;` moves all screen shots on desktop to folder indicated
 * `$ defaults write com.apple.screencapture location /drag/location/here` followed by `$ killall SystemUIServer` to change ss directory
