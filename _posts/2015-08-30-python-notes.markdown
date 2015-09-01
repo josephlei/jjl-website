@@ -6,8 +6,6 @@ categories:
 published: true 
 ---
 
-####Python Notes
-
 ####**Updated 2015-08-30**
 
 * NumPy "ndarray" object
@@ -21,4 +19,4 @@ published: true
       * `dx.ndim`
   * creation
     * use the np.array(data) fn/method: accepts any sequence like obj, creates ndarray
-      * ex: array_1 = np.array(data)
+      * ex: `array = np.array(data)`
