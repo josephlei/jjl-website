@@ -10,7 +10,7 @@ published: true
 
 ####**Updated 2015-09-01**
 
-#### How to make a *real* stake (assuming one serving, maybe two.. if you're making more than that, you don't need my advice ;)
+#### How to make a *real* steak (assuming one serving, maybe two.. if you're making more than that, you don't need my advice ;)
 
 1. If you're not grilling it, cast iron only.. no exceptions
 2. Season with salt + pepper only, extra points for course versions of either/both
