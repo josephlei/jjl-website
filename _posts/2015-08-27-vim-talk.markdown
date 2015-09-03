@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Expert VIM"
+title: "Expert Level VIM"
 date: 2015-08-27
 categories: 
 published: true
 ---
 
-###Takeaways from Ben Orenstein's talk on expert VIM
+###Takeaways from Ben Orenstein's talk on expert level VIM
 
 ####**Updated 2015-09-02**
 
 Ref: https://www.youtube.com/watch?v=SkdrYWhh-8s
 
-* You need to be "obnoxiously intolerant of typing" (TL;DR - demand a one keystroke solution over two)
+* You need to be "obnoxiously intolerant of typing" (TL;DR - **demand** a 1 keystroke solution over 2)
 * Focus on the things you do frequently, maximize value for effort
  * Solution: map something (ex. ctrl+s) to replace esc+shift+colon+w
  * Leader commands, binding short mappings to longer commands
