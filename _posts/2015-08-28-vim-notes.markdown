@@ -16,10 +16,12 @@ published: true
 * `G` takes you to EOF
 * `o` newline below current, Δ insert
 * `$` go to EOL
-* `A` to to EOL, Δ insert
+* `A` go to EOL, Δ insert
 * `0` go to beginning of line (BOL)
 * `I` go to BOL, Δ insert
 * `x` delete forward (eat character)
 
 * `:q!` quit (override), discard Δs
 * `:w` write Δs
+* `:wq` write Δs, quit
+* `ZZ` write Δs, quit

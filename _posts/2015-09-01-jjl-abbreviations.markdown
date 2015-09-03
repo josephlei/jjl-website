@@ -26,3 +26,5 @@ Some of the following might be common sense, but I hope the following legend hel
 * Ps = proc SQL (SAS specific)
 * α = alpha = any lower or uppercase letter a-z or A-Z 
 * str = string = any combo of characters
+* ref = reference
+* re = regarding, "subject of conversation" (ex. contact me re: last week's agenda items)
