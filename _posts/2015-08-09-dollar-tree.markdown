@@ -6,15 +6,13 @@ categories:
 published: true
 ---
 
-##Dollar Tree Shenanigans
+###Dollar Tree Shenanigans
 
-##What to stock, what to skip
+####**Updated 2015-09-02**
 
 Let me just say, I love dollar stores.. not just because of the jankiness that sometimes comes with em' but because there are truly amazing people who work there.. who just happen to provide me great bargains.
 
 With that said, not all items are created equal in the wonderful world of said greenback; some items you should stock.. others, definitely skip
-
-Shoutout to my local dollar store peepz: Armando, Alex
 
 ##Stock
 
@@ -41,13 +39,13 @@ Shoutout to my local dollar store peepz: Armando, Alex
 * Cream/sugar/condiment pourers (like the ones at coffee shops or pizza places)
 * Two pack fly swatters
 * Campbells double noodle chicken noodle soup
-* Corned beef hash
 * Bounty single roll (-$0.50 coupon), not the best quality but does the job for simple tasks
-
 
 ##Skip
 
-**Frozen Steak** - I thought the whole idea of buying a frozen steak from the dollar store a bit strange, but curiosity got the best of me.  While the steak itself was quite tasty and cooked up in about 30 seconds due to it's thicknes, the packaging reveals that it contains a LOT (maybe 20-30%) of so called flavor enhancing "solution."  Geeky me did some math and it turns out these steaks are over $6 per pound.  At that kind of price, I can get fresh chuck steak from the supermarket next door :)
+**Frozen Steak** - I thought the whole idea of buying a frozen steak from the dollar store a bit strange, but curiosity got the best of me.  While the steak itself was quite tasty and cooked up in about 30 seconds due to it's thickness, the packaging reveals that it contains a LOT (maybe 20-30%) of so called flavor enhancing "solution."  Geeky me did some math and it turns out these steaks are over $6 per pound.  At that price, I can get fresh chuck steak from the supermarket next door :)
+
+**Corned beef hash** - used to be in the "buy" section, moved here because after trying it, it cooks down to almost nothing and is a lot of oil/liquid.  Stick to buying more expensive $3 a can stuff, you get what you pay for in this case.
 
 **Water** - 6 half liter bottles for $1 means a 24 pack is $4; most places have 24 packs for <$2.50
 
@@ -57,7 +55,7 @@ Shoutout to my local dollar store peepz: Armando, Alex
 
 **Hot dog cutter** - Thought it was novel at the time, never used it except that one time..
 
-**Electrical tape** - It might be just me but I think the adhesive expires and turns into a gooey mess way too soon after I bought it
+**Electrical tape** - It might be just me but I think the adhesive turns into a gooey mess way too soon after I bought it
 
 ##Merh (items I'm still on the fence about)
 
@@ -69,6 +67,6 @@ Shoutout to my local dollar store peepz: Armando, Alex
 
 **Masking tape* - It's cheap enough, but the quality is lacking.. good enough for simple jobs sticking up stuff and not leaving a residue, but I definitely wouldn't paint with it.
 
-**Nail file** - I use it for taking off rough nail edges after clipping.  They don't last very long but the upside is when they're no good anymore you can just cut out a piece of 220 grit sandpaper, glue it on and you're good to go again
+**Nail file** - I use it for taking off rough nail edges after clipping.  They don't last very long but the upside is when they're no good anymore you can just cut out a piece of 220 grit sandpaper, glue it on and you're good to go again. Update 2015-09-02: after using my "nail file hack" for a month or so.. 220 grit sand paper works really well
 
 **Isopropyl alcohol** - It's either low concentration (~30%) or a really small bottle (maybe 8oz), would probably want to be more safe than sorry if using it to disinfect stuff
