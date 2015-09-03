@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to eat like a legend, as a bachelor"
-date: 2015-09-01
+date: 2015-09-02
 categories: 
 published: true 
 ---

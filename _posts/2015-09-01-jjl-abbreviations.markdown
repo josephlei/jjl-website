@@ -25,3 +25,4 @@ Some of the following might be common sense, but I hope the following legend hel
 * Mvar = macro variable
 * Ps = proc SQL (SAS specific)
 * α = alpha = any lower or uppercase letter a-z or A-Z 
+* str = string = any combo of characters
