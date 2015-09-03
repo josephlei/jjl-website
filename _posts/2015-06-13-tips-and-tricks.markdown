@@ -12,6 +12,8 @@ published: true
 
 ####**Updated 2015-08-30**
 
+#####This article is slowly being pieced out to separate topical articles for better cohesion
+
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory
   * in sublime or other text editor, use find replace to FIND all colons `:` and REPLACE with the regular expression for newline `\n` to make it readable
@@ -74,6 +76,7 @@ published: true
 
 * cmd/term/shell/bash
   * `!!` gives you the last entered COMMAND, `sudo !!` to root last w/o re-typing
+    * consider aliasing `plz = 'sudo !!'`
   * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
   * `open .` opens the current working directory in finder, replace `.` with filename to open w/linked def app
   * `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)

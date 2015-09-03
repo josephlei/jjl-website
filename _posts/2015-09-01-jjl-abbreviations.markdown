@@ -28,3 +28,11 @@ Some of the following might be common sense, but I hope the following legend hel
 * str = string = any combo of characters
 * ref = reference
 * re = regarding, "subject of conversation" (ex. contact me re: last week's agenda items)
+* def = default, occasionally secondary meaning of "define(d)" which will be clear by context
+* spec = specify
+* specd = specified
+* arg = argument
+* var = variable
+* ssh = secure shell (connection)
+* scp = secure copy (native to *NIX systems, Windows req 3rd party client such as winscp, Filezilla, putty, cygwin)
+* req(s) = require(s), requirement(s)
