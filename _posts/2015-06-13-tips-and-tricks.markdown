@@ -76,7 +76,7 @@ published: true
 
 * cmd/term/shell/bash
   * `!!` gives you the last entered COMMAND, `sudo !!` to root last w/o re-typing
-    * consider aliasing `plz = 'sudo !!'`
+    * consider aliasing `plz = 'sudo !!'` :)
   * `!$` gives you the last entered ARGUMENT (test with `$echo !$`)
   * `open .` opens the current working directory in finder, replace `.` with filename to open w/linked def app
   * `~/.bash_profile` add `alias ll='ls -l'` for instant access to ls verbose (incl. permissions)
