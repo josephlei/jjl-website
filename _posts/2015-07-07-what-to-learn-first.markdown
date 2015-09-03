@@ -18,15 +18,17 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####*With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-08-30**
-#####Personal note: I've moved a lot of items that were here to "Lower Priority Items," not because they're not important, but because I'm learning more about how I learn and trying to be honest with myself about what will make the biggest difference, beautifully referred to as "highest net present value" by Nir Kaldero of Galvanize Data Science.  On second thought, this is the crux of this entire article "what to learn first."
+####**Updated 2015-09-02**
+
+#####Personal note: I've moved a lot of items that were previously here to "Lower Priority Items," not because they're not important, but because I'm learning more about how I learn and trying to be honest with myself about what will make the biggest difference, beautifully referred to as "highest net present value" by Nir Kaldero of Galvanize Data Science.  On second thought, this is the crux of this entire article, prioritizing "what to learn first."
 
 * Python 2.7
-* Python libraries: Pandas, Numpy, re (regex)
+* Python libraries: Pandas, Numpy, Sci-Kit Learn
 * VIM
 * Inferential Statistics
 * Linear Algebra via Udacity
-* Machine Learning via Coursera
+* Machine Learning via Coursera (Andrew Ng's)
+* Probability Theory
 
 ####*Lower Priority Items*
 
@@ -44,7 +46,7 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 * PGP encryption, GPG command line, verify hash
 * MongoDB, SQL Lite
 * Python Sci-kit learn, Bokeh Visualization
-* Pentaho for open data visualization
+* Bokeh, D3.js, Pentaho for open source data visualization
 * Cassandra
 * Apache Spark
 * Scala
