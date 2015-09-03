@@ -6,7 +6,7 @@ categories:
 published: true 
 ---
 
-####**Updated 2015-09-01**
+####**Updated 2015-09-02**
 
 I abbreviate (abrev.) the heck out of almost everything, so in case what I write seems like gibberish.. 
 
@@ -15,7 +15,7 @@ Some of the following might be common sense, but I hope the following legend hel
 * Dx = data, or dataset(s)
 * IDx = input data/dataset(s)
 * ODx = output data/dataset(s)
-* Δ = delta, changes, modification, etc.
+* Δ = delta, change, modification, marginal difference, etc.
 * obj = object
 * $ = char = character (old habits from SAS)
 * dim = dimension (98% of the time..)
