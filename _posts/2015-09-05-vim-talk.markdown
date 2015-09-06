@@ -1,28 +1,25 @@
 ---
 layout: post
 title: "Expert Level VIM"
-date: 2015-08-27
+date: 2015-09-05
 categories: 
 published: true
 ---
 
 ###Takeaways from Ben Orenstein's talk on expert level VIM
 
-####**Updated 2015-09-02**
+####**Updated 2015-09-05**
 
 Ref: https://www.youtube.com/watch?v=SkdrYWhh-8s
 
-* You need to be "obnoxiously intolerant of typing" (TL;DR - **demand** a 1 keystroke solution over 2)
-* Focus on the things you do frequently, maximize value for effort
+* Be "obnoxiously intolerant of typing" (TL;DR - **demand** a 1 keystroke solution over 2)
+* Focus on the actions you do frequently, or infrequent but slow cmds; maximize value for effort
  * Solution: map something (ex. ctrl+s) to replace esc+shift+colon+w
  * Leader commands, binding short mappings to longer commands
- * Infrequent operations, but slow operations
  * Map typos you do all the time, ex. git psuh instead of git push, make it do the same thing
-* Have a cheat sheet, 7 +/- 2 commands, train it
- * if you see you're not using it, remove it
- * once it's in your brain, remove it
-* VIM rc config file
-* Use the help (:h)
+* Have a cheat sheet, 7 +/- 2 commands, train it until memorized or it's not being used, replace
+* .vimrc config file
+* Use VIM help via :h
 * cmd + T (fuzzy finder matcher), apparently it's awesome, don't know how to use it yet
 * direct seek/jump to a numbered line, do something like `14+G` (14 + shift + g) jumps you to line 14
 * learn motions (nouns) cmd (verbs)
