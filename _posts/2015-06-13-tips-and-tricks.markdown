@@ -14,6 +14,11 @@ published: true
 
 #####This article is slowly being pieced out to separate topical articles for better cohesion
 
+$ sudo apt-get update
+$ sudo apt-get dist-upgrade
+
+remember to reboot svr after upgrades
+
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory
   * in sublime or other text editor, use find replace to FIND all colons `:` and REPLACE with the regular expression for newline `\n` to make it readable

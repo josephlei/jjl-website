@@ -25,3 +25,4 @@ published: true
 * `:w` write Δs
 * `:wq` write Δs, quit
 * `ZZ` write Δs, quit
+* `gg` goes to line 1
