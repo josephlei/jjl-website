@@ -29,4 +29,4 @@ Ref: https://www.youtube.com/watch?v=SkdrYWhh-8s
 * bash_profile
  * `alias gis = 'git status'` potential future conflict w/carto tools, worry about it when i get there
  * `alias lal = 'ls -al'`
- * `alias art = 'cd \jjl_website\_posts'` i.e. universal "take me to my repo for website articles" (art = "articles" abbrev.)
+ * `alias art = 'cd \jjl_website\_posts'` i.e. universal "take me to my repo for website articles"
