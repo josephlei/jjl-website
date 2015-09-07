@@ -14,6 +14,12 @@ published: true
 
 #####This article is slowly being pieced out to separate topical articles for better cohesion
 
+ipython notebook --profile nbserver --pylab inline
+ps aux | grep py
+`which ipython` tells you where python is installed
+
+find . -type f -name "*vim-notes*" -exec vim {} \;
+
 $ sudo apt-get update
 $ sudo apt-get dist-upgrade
 
