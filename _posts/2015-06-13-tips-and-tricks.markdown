@@ -14,16 +14,18 @@ published: true
 
 #####This article is slowly being pieced out to separate topical articles for better cohesion
 
-ipython notebook --profile nbserver --pylab inline
-ps aux | grep py
+`ipython notebook --profile nbserver --pylab inline` to start vps jupyter server
+`ps aux | grep py` to find the pid if needed to kill it
 `which ipython` tells you where python is installed
 
 find . -type f -name "*vim-notes*" -exec vim {} \;
 
-$ sudo apt-get update
-$ sudo apt-get dist-upgrade
+`$ sudo apt-get update` to get the updated package list
+`$ sudo apt-get dist-upgrade` to do the upgrade
+Remember to reboot svr after upgrades
 
-remember to reboot svr after upgrades
+`!$` gives you the last active argument
+`d<left arrow>` deletes current and left char in VIM
 
 * `echo $PATH` gives you a colon separated list of your path environment (env) variable (var)
   * `echo $PATH > filename` will output your path env var to a file named filename, located in current working directory

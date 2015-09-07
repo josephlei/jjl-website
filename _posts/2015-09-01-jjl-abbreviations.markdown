@@ -37,3 +37,4 @@ Some of the following might be common sense, but I hope the following legend hel
 * scp = secure copy (native to *NIX systems, Windows req 3rd party client such as winscp, Filezilla, putty, cygwin)
 * req(s) = require(s), requirement(s)
 * art = articles (blog posts, etc.)
+* svr = server
