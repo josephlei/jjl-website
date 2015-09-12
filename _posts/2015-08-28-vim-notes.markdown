@@ -10,6 +10,8 @@ published: true
 
 ####**Updated 2015-09-06**
 
+* `C` deletes to EOL and delta insert
+* `cw` deletes the word in front, delta insert
 * `db` deletes backwards one word
 * `dd` deletes the line you're on
 * `dG` deletes to end of file (EOF)

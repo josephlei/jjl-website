@@ -12,7 +12,7 @@ A word of caution, both the SAS Base and SAS Advanced Certifications are **hard*
 
 The advanced certification exam tests understanding of three courses: SQL 1, Macro 1 and Programming 3.
 
-####**Updated 2015-07-23**
+####**Updated 2015-09-11**
 
 ####Legend of the abbreviations I use
 * Mvar = Macro Variable
@@ -24,7 +24,7 @@ The advanced certification exam tests understanding of three courses: SQL 1, Mac
 ***
 
 * PROC SQL
-  * When using Ps to create a Mvar, you use syntax `SELECT INTO :Mvar-name`
+  * When using Ps to create a Mvar, remember that the syntax is `SELECT INTO :Mvar-name`
     * The colon comes BEFORE the Mvar-name
   * Set operators
     * UNION, OUTER UNION, EXCEPT, INTERSECT
@@ -33,3 +33,5 @@ The advanced certification exam tests understanding of three courses: SQL 1, Mac
   * What's the difference between WHERE and HAVING clauses? How do you use each?
   * What's the syntax for using the WHERE clause to condition on a missing value?
   * What is considered ANSI standard SQL and what is a SAS enhancement?
+
+Much more to come once I get a little time to settle back in.
