@@ -22,7 +22,12 @@ For a couple months I tried to find alternate sites and learning material but it
 Since I had been fiddling with command line wget for a while, I used this as an opportunity to road test what I had picked up so far.  
 
 **The Goal:**
-1. Clone the entire website excluding links to external websites
-2. Modify the local cascading style sheet to colors I can see
+  1. Clone the entire website excluding links to external websites
+  2. Modify the local cascading style sheet to colors I can see
 
 What I landed on was the following: `wget --limit-rate=200k --no-clobber --convert-links --random-wait --domain=regular-expressions.info -r -p -E -e robots=off -U mozilla http://www.regular-expressions.info/`
+
+When all the smoke had cleared, I was 3.4 MB heavier and halfway to the goal 
+
+`Total wall clock time: 19s
+Downloaded: 160 files, 3.4M in 2.1s (1.65 MB/s)`
