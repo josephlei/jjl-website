@@ -39,9 +39,9 @@ I then modified the .css to make the colors distinctly different by changing the
 
 Below are two pictures showing the before and after, markedly different.  The best part about this solution is that **IT AUTOMATICALLY AFFECTS EVERY LOCALLY CACHED PAGE** which means I can now learn to my hearts content, colors and all.
 
-![before](/assets/colorblind_before.png)
-![after](/assets/colorblind_after.png)
-
 ####I hope this article has been fun and that it will be helpful for others who have the same issue with colors. If you know any color "challenged" people, please feel free to share this with them :)
-
 `:wq`
+
+![before](/assets/colorblind_before.png)
+
+![after](/assets/colorblind_after.png)
