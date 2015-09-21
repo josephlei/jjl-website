@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips and Tricks picked up along the way"
-date: 2015-08-30
+date: 2015-09-19
 categories: 
 published: true
 ---
@@ -10,9 +10,12 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-08-30**
+####**Updated 2015-09-19**
 
 #####This article is slowly being pieced out to separate topical articles for better cohesion
+
+wget --limit-rate=200k --no-clobber --convert-links --random-wait --domain=regular-expressions.info -r -p -E -e robots=off -U mozilla http://www.regular-expressions.info/
+The above line to dl regex website so i can convert it with css to colors i can see (r/g colorblind)
 
 `ipython notebook --profile nbserver --pylab inline` to start vps jupyter server
 `ps aux | grep py` to find the pid if needed to kill it
