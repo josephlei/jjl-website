@@ -14,4 +14,15 @@ I found out I was red/green colorblind sometime in elementary school and never t
 ###The Challenge
 Recently, in my quest for data domination I have made it a goal to learn VIM (a command line text editor) and Regular Expressions (A way of matching string patterns).  In the course of learning regex in particular, I came across a website with great tutorials and was a great way to learn.. **except** the main colors used were, you guessed it.. red, green and blue. 
 
-[Check out this link to see what I mean](http://www.regular-expressions.info/quickstart.html)
+[Check out this link to see the page in question](http://www.regular-expressions.info/quickstart.html)
+
+###The Solution
+For a couple months I tried to find alternate sites and learning material but it bothered me that this common color scheme could genuinely affect my ability to learn.  One day I ran into my friend Gary L. at the Sacramento Hacker Lab and he suggested using browser code injection tools like tampermonkey css to modify the local cached version of the website so I could see the colors.  Ultimately if I followed his suggestion, the end result might be even more elegant than what I finally landed on, but would allow me to not divert energy learning a new language. 
+
+Since I had been fiddling with command line wget for a while, I used this as an opportunity to road test what I had picked up so far.  
+
+**The Goal:**
+1. Clone the entire website excluding links to external websites
+2. Modify the local cascading style sheet to colors I can see
+
+What I landed on was the following: `wget --limit-rate=200k --no-clobber --convert-links --random-wait --domain=regular-expressions.info -r -p -E -e robots=off -U mozilla http://www.regular-expressions.info/`
