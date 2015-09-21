@@ -22,6 +22,7 @@ For a couple months I tried to find alternate sites and learning material but it
 Since I had been fiddling with command line wget for a while, I used this as an opportunity to road test what I had picked up so far.  
 
 **The Goal:**
+
   1. Clone the entire website excluding links to external websites
   2. Modify the local cascading style sheet to colors I can see
 
@@ -39,10 +40,11 @@ I then modified the .css to make the colors distinctly different by changing the
 
 Below are two pictures showing the before and after, markedly different.  The best part about this solution is that **IT AUTOMATICALLY AFFECTS EVERY LOCALLY CACHED PAGE** which means I can now learn to my hearts content, colors and all.
 
-####I hope this article has been fun and that it will be helpful for others who have the same issue with colors. If you know any color "challenged" people, please feel free to share this with them :)
+####I hope this article has been fun and that it will be helpful for others who have the same issue with colors. If you know any "color challenged" people, please feel free to share this with them :)
 `:wq`
 
 ###**BEFORE**
 ![before](/assets/colorblind_before.png)
+
 ###**AFTER**
 ![after](/assets/colorblind_after.png)
