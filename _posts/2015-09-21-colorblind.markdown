@@ -29,9 +29,9 @@ What I landed on was the following: `wget --limit-rate=200k --no-clobber --conve
 
 When all the smoke had cleared, I was 3.4 MB heavier and halfway to the goal 
 
-`Total wall clock time: 19s
+`Total wall clock time: 19s`
 
-Downloaded: 160 files, 3.4M in 2.1s (1.65 MB/s)`
+`Downloaded: 160 files, 3.4M in 2.1s (1.65 MB/s)`
 
 I then modified the .css to make the colors distinctly different by changing the red into bright YELLOW and the green into a distinctly uh.. GREEN green.
 
@@ -42,6 +42,7 @@ Below are two pictures showing the before and after, markedly different.  The be
 ####I hope this article has been fun and that it will be helpful for others who have the same issue with colors. If you know any color "challenged" people, please feel free to share this with them :)
 `:wq`
 
+###**BEFORE**
 ![before](/assets/colorblind_before.png)
-
+###**AFTER**
 ![after](/assets/colorblind_after.png)
