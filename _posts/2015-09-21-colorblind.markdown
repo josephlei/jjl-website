@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I beat colorblind-ness via wget/css"
+title: "How I beat being colorblind with wget/css"
 date: 2015-09-21
 categories: 
 published: true
@@ -14,4 +14,4 @@ I found out I was red/green colorblind sometime in elementary school and never t
 ###The Challenge
 Recently, in my quest for data domination I have made it a goal to learn VIM (a command line text editor) and Regular Expressions (A way of matching string patterns).  In the course of learning regex in particular, I came across a website with great tutorials and was a great way to learn.. **except** the main colors used were, you guessed it.. red, green and blue. 
 
-[Check out this link to see what I mean](www.regular-expressions.info/quickstart.html)
+[Check out this link to see what I mean](http://www.regular-expressions.info/quickstart.html)
