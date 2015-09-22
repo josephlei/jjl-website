@@ -6,11 +6,9 @@ categories:
 published: true 
 ---
 
-####**Updated 2015-09-02**
+####**Updated 2015-09-21**
 
 I abbreviate (abrev.) the heck out of almost everything, so in case what I write seems like gibberish.. 
-
-Some of the following might be common sense, but I hope the following legend helps :)
 
 * Dx = data, or dataset(s)
 * IDx = input data/dataset(s)
@@ -22,6 +20,9 @@ Some of the following might be common sense, but I hope the following legend hel
 * EOL = end of line
 * EOF = end of file
 * BOL = beginning of file (I made this one up, but it works)
+* init = initialize, initial value
+* val = value
+* 0v = zero vector
 * Mvar = macro variable
 * Ps = proc SQL (SAS specific)
 * α = alpha = any lower or uppercase letter a-z or A-Z 
