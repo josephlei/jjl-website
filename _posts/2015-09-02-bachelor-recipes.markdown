@@ -13,19 +13,19 @@ published: true
 ####**How to make steak** (assuming one serving, maybe two.. if you're making more than that, you don't need my advice)
 
 1. If you're not grilling it, use cast iron.. 
-2. Season with just salt + pepper, course versions of both if you can spare it
-3. Let steak warm up to room temperature, covered.. this step is super important
+2. Season with course sale + peppe
+3. Let steak warm up to room temperature, covered.. super important
 4. Add ~1.25 tbsp of oil per 8 oz to cast iron
 5. Heat cast iron for 4-8 minutes on medium high heat until *literally* smoking hot
 6. Add steak(s), don't move it.. cook for 2-3 minutes per side if under 1" thickness, adjust accordingly for "thickness"
 7. Remove, plate, cover
-8. Add x oz of thickly sliced mushrooms and onions to aforementioned blazing hot cast iron skillet, season with a pat of butter and some cooking wine
+8. Add thickly sliced mushrooms and onions to aforementioned blazing hot cast iron skillet, season with a pat of butter and some cooking wine
 9. Plate
 10. Profit
 
 ####**Chili-mac for the rest of us** (except without the mac)
 
-1. One can Hormel hot chili (with beans)
+1. One can Hormel hot chili with beans
 2. One package Uncle Ben's rice
 3. One generous sprinkle shredded *sharp* cheddar cheese
 4. One portion hot sauce of your choice
