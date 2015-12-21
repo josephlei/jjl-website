@@ -3,7 +3,7 @@ layout: post
 title: "Daily Goals"
 date: 2015-09-06
 categories: 
-published: true
+published: false
 ---
 
 ###Joseph's things he is working on..
