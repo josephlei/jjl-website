@@ -3,7 +3,7 @@ layout: post
 title: "Sacramento Parking, Open Source Style"
 date: 2015-12-20
 categories: 
-published: false
+published: true
 ---
 
 ####**Updated 2015-12-20**
@@ -22,4 +22,6 @@ A link to the interactive map is here for all you Sacramento-ans to check out; t
 
 If anybody has time and would like to fancify this into a more user friendly interface to present to the world, let me know I would love to work with a geo dev on something like a leaflet open street map deploy. 
 
-[Check out this link to see the page in question](http://www.regular-expressions.info/quickstart.html)
+[Map here](https://crosskonaftw.cartodb.com/viz/6adf39d0-fd09-11e4-a589-0e9d821ea90d/public_map)
+
+*Article still under dev, incomplete.. enjoy whats here in the moment!

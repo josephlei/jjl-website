@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Deltas"
+date: 2015-12-20
+categories: 
+published: false
+---
+
+####**Updated 2015-12-20**
+
+###Deltas make the world go 'round
+
+I've been meaning to write this article for a while, and it's been something I've been thinking about for a while on the backburner. In mathematics, greek delta (Δ) was first introduced to me in geometry.. or some class, as simply "the change." In the last two years, using Δ instead of writing delta has probably saved me hours and hours.. but more importantly, it made me consider the idea of delta on an abstract level.
+
+I first noticed, for example that car accidents occured because there was a difference in some aspect of the two (or more) objects, i.e. trajectory, speed, acceleration, traction, that led to the unfortunate meeting. Also in other areas, we evaluate and make choices because of differences (i.e. Δs) say for example getting drip coffee over a latte because of price, caffeine content, DIFFERENCE in the amount of enjoyment you receive from one vs. the other, some (including econ majors like myself) would call it opportunity cost, actuaries would call it risk adjustment. 
+
+For the most part, everything can be linked back to risk management, partially why actuaries get paid ridiculous salaries, but even risk is based on the inherent differences of life (statisticians: variance, anova).
+
+In any case, there are a million examples and situations.. I would love to hear what others think about this. Going to try to get this Jekyll served GitHub pages to enable comment boxes or better social media/contact interactions when time avails. In the mean time, if you're a friend or colleague reading this, let me know what you think! :)
+
+note to self: insert vim delta symbol via ctrl+k, then D asterisk
+note to self: disable pattern matching highlighting for asterisks and underscores so twitter handles don't break vim files
