@@ -18,10 +18,12 @@ Because of the format of the data from the Junar open data portal platform, it r
 
 Fast forward a month, or six.. my interactions with geo genius Kari Mah led me to cartodb, the free to use mapping solution for the geo-dev challenged like myself. After a simple delimited upload, I had a pretty map of Sacramento littered with a grid of dots. Filtering down gave me the gold I was panning for, ALL DAY FREE PARKING SPOTS! Of course with publicly released data (or any data) there is the potential of validation issues, so I took a bike ride to check out the findings. True to form many of the spots were no longer zoned as such, but surprisingly many/most of them were, including some onesy twosy spaces in places nobody would ever think of.
 
-A link to the interactive map is here for all you Sacramento-ans to check out; there are potentially many other uses of this data, including examining zoning effectiveness and the impact of parking on traffic (heuristic, unless you can link it to another data set).
+A link to the interactive map is here for all you Sacramento-ans to check out; there are potentially many other uses of this data, including examining zoning effectiveness and the impact of parking on traffic (heuristic, unless you can link it to another data set). I was also able to use the discrete permit area feature of the data to see where permit areas were delineated (picture below).
 
 If anybody has time and would like to fancify this into a more user friendly interface to present to the world, let me know I would love to work with a geo dev on something like a leaflet open street map deploy. 
 
-[Map here](https://crosskonaftw.cartodb.com/viz/6adf39d0-fd09-11e4-a589-0e9d821ea90d/public_map)
+[Click here for the parking map](https://crosskonaftw.cartodb.com/viz/6adf39d0-fd09-11e4-a589-0e9d821ea90d/public_map)
 
 *Article still under dev, incomplete.. enjoy whats here in the moment!
+
+![permit areas](/assets/permit_areas.png)
