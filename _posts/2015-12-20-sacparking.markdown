@@ -12,7 +12,7 @@ published: true
 
 Back when I first moved to Sacramento, the first challenge I faced was where to park for work.. the wait list at my building is about 10 years, and paying $150+ a month to park for 20 days a month didn't appeal to me. For a time I was fortunate to find a local business that allowed me to park daily for a reasonable rate. 
 
-As I became involved with Code for Sacramento and Open Data, I was pleasantly surprised to find out the City of Sacramento publishes a Open Data set on every single parking space in the downtown area, on their open data portal (http://data.cityofsacramento.org/). It contains information down to the exact geo-coordinated latitude and longitude, along with other associated data. I figured it was worth a shot to find free parking.. and find it I did. 
+As I became involved with Code for Sacramento and Open Data, I was pleasantly surprised to find out the City of Sacramento publishes a Open Data set on every single parking space in the downtown area, on their open data portal [http://data.cityofsacramento.org/](http://data.cityofsacramento.org/). It contains information down to the exact geo-coordinated latitude and longitude, along with other associated data. I figured it was worth a shot to find free parking.. and find it I did. 
 
 Because of the format of the data from the Junar open data portal platform, it required parsing to "flatten" out and knowing nothing about python at the time, I fumbled around with a parser written by fellow Code for Sacramento team member Jay Venti. Eventually getting it to work so I could filter down to "all day unrestricted parking" spots was easy, but visualizing it became the challenge.
 
