@@ -3,7 +3,7 @@ layout: post
 title: "Deltas"
 date: 2015-12-20
 categories: 
-published: false
+published: true
 ---
 
 ####**Updated 2015-12-20**
