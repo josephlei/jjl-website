@@ -18,5 +18,6 @@ For the most part, everything can be linked back to risk management, partially w
 
 In any case, there are a million examples and situations.. I would love to hear what others think about this. Going to try to get this Jekyll served GitHub pages to enable comment boxes or better social media/contact interactions when time avails. In the mean time, if you're a friend or colleague reading this, let me know what you think! :)
 
-note to self: insert vim delta symbol via ctrl+k, then D asterisk
-note to self: disable pattern matching highlighting for asterisks and underscores so twitter handles don't break vim files
+**note to self**: insert vim delta symbol via ctrl+k, then D asterisk
+
+**note to self**: disable pattern matching highlighting for asterisks and underscores so twitter handles don't break vim files
