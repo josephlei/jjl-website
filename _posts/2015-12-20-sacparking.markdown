@@ -24,6 +24,8 @@ If anybody has time and would like to fancify this into a more user friendly int
 
 [Click here for the parking map](https://crosskonaftw.cartodb.com/viz/6adf39d0-fd09-11e4-a589-0e9d821ea90d/public_map)
 
+[Click here for the permit area map](https://crosskonaftw.cartodb.com/viz/ee4d102c-ff1a-11e4-96a4-0e0c41326911/public_map)
+
 *Article still under dev, incomplete.. enjoy whats here in the moment!
 
 ![permit areas](/assets/permit_areas.png)
