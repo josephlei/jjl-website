@@ -40,11 +40,3 @@ published: true
 4. Add boiling hot water, cover lid
 5. Eat and reflect on how you could have never thought of this strange yet tasty combination before
 6. Shoutout to Marvin C. for this one
-
-####**Martinis**
-
-1. Disclaimer: "Not *technically* a food group"
-2. Subject to interpretation, preference and criticism..
-  * Vodka Martini
-  * Up
-  * With a twist
