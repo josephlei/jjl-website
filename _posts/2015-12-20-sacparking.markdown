@@ -6,9 +6,9 @@ categories:
 published: true
 ---
 
-####**Updated 2015-12-20**
+#### **Updated 2015-12-20**
 
-###Story
+### Story
 
 Back when I first moved to Sacramento, the first challenge I faced was where to park for work.. the wait list at my building is about 10 years, and paying $150+ a month to park for 20 days a month didn't appeal to me. For a time I was fortunate to find a local business that allowed me to park daily for a reasonable rate. 
 
