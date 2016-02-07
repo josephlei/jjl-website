@@ -14,8 +14,13 @@
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
+          
+
+
+
           {% if site.github_username %}
-          <li>
+          <li> <!-- li tag is for defining a list element-->
+
             <a href="https://github.com/{{ site.github_username }}">
               <span class="icon  icon--github">
                 <svg viewBox="0 0 16 16">
@@ -25,11 +30,18 @@
 
               <span class="username">{{ site.github_username }}</span>
             </a>
+          
+
+
           </li>
           {% endif %}
 
           {% if site.twitter_username %}
           <li>
+            
+
+
+
             <a href="https://twitter.com/{{ site.twitter_username }}">
               <span class="icon  icon--twitter">
                 <svg viewBox="0 0 16 16">
@@ -40,16 +52,17 @@
 
               <span class="username">{{ site.twitter_username }}</span>
             </a>
+          
+
+
+
           </li>
           {% endif %}
         </ul>
       </div>
-
       <div class="footer-col  footer-col-3">
         <p class="text">{{ site.description }}</p>
       </div>
     </div>
-
   </div>
-
 </footer>
