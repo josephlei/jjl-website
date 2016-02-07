@@ -6,7 +6,7 @@ categories:
 published: true 
 ---
 
-####**Updated 2015-09-21**
+#### **Updated 2015-09-21**
 
 I abbreviate (abrev.) the heck out of almost everything, so in case what I write seems like gibberish.. 
 

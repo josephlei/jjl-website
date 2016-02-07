@@ -8,9 +8,9 @@ published: true
 
 ### There are certain recipes a bachelor comes to know.. secrets rarely shared.. read on brave sojourner..
 
-####**Updated 2015-09-21**
+#### **Updated 2015-09-21**
 
-####**How to make steak** (assuming one serving, maybe two.. if you're making more than that, you don't need my advice)
+#### **How to make steak** (assuming one serving, maybe two.. if you're making more than that, you don't need my advice)
 
 1. If you're not grilling it, use cast iron.. 
 2. Season with course sale + peppe
@@ -23,7 +23,7 @@ published: true
 9. Plate
 10. Profit
 
-####**Chili-mac for the rest of us** (except without the mac)
+#### **Chili-mac for the rest of us** (except without the mac)
 
 1. One can Hormel hot chili with beans
 2. One package Uncle Ben's rice
@@ -32,7 +32,7 @@ published: true
 5. One microwave
 6. TWO AWESOME, DELICIOUS, FILLING MEALS
 
-####**Ramen for the 21st century**
+#### **Ramen for the 21st century**
 
 1. One shin-ramen cup (the spicy korean kind)
 2. Add one slice or half cup shredded sharp chedder

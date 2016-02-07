@@ -8,7 +8,7 @@ published: true
 
 ### Dollar Tree Shenanigans
 
-####**Updated 2015-09-02**
+#### **Updated 2015-09-02**
 
 Let me just say, I love dollar stores.. not just because of the jankiness that sometimes comes with em' but because there are truly amazing people who work there.. who just happen to provide me great bargains.
 

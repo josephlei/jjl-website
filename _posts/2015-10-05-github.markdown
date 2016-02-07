@@ -6,7 +6,7 @@ categories:
 published: false
 ---
 
-####**Updated 2015-10-05**
+#### **Updated 2015-10-05**
 
 ### Joseph "I'm not a fullstack dev" Lei
 I'll be the first to admit, I'm not a front end, UI/UX, js dev.. which is what most people use github for; **I'm a data guy**.. and whatever I need to learn to that end, I am

@@ -6,7 +6,7 @@ categories:
 published: true 
 ---
 
-####**Updated 2015-08-30**
+#### **Updated 2015-08-30**
 
 * NumPy "ndarray" object
   * properties

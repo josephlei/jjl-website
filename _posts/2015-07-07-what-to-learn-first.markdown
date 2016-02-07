@@ -16,9 +16,9 @@ These challenges are compounded when you consider what a potential employer or f
 
 Very importantly, I have to often remind myself to consider the bigger picture of life, happiness, balance, relaxation and family. We are human, we can only push ourselves so hard.. that may mean that on this side of eternity we may not get to where we think we want to be, but how often have we found ourselves finally "there," just to realize that "there" is nowhere at all.
 
-####*With that said, here's what I'm currently learning in no particular order :)*
+#### *With that said, here's what I'm currently learning in no particular order :)*
 
-####**Updated 2015-09-02**
+#### **Updated 2015-09-02**
 
 ##### Personal note: I've moved a lot of items that were previously here to "Lower Priority Items," not because they're not important, but because I'm learning more about how I learn and trying to be honest with myself about what will make the biggest difference, beautifully referred to as "highest net present value" by Nir Kaldero of Galvanize Data Science.  On second thought, this is the crux of this entire article, prioritizing "what to learn first."
 
@@ -30,7 +30,7 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 * Machine Learning via Coursera (Andrew Ng's)
 * Probability Theory
 
-####*Lower Priority Items*
+#### *Lower Priority Items*
 
 * HTML parsing: Scrapy, Beautiful Soup 4
 * Regex (AND overcoming Red Green color blindness in one step! edit: accomplished via cURL and modifying .CSS)
@@ -55,7 +55,7 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 * Tamper Monkey for chrome, grease monkey for firefox? (sp?)
 * Ohana API
 
-####*Completed Items*
+#### *Completed Items*
 
 * SQL Set Operators (vertical table joins)
 * SAS Advanced Certification (yay!)

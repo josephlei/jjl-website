@@ -8,7 +8,7 @@ published: true
 
 #### The ones I'm working on integrating/muscle memorizing.. # nomousechallenge
 
-####**Updated 2015-09-06**
+#### **Updated 2015-09-06**
 
 * `C` deletes to EOL and delta insert
 * `cw` deletes the word in front, delta insert

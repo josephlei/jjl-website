@@ -10,7 +10,7 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-####**Updated 2015-09-19**
+#### **Updated 2015-09-19**
 
 ##### This article is slowly being pieced out to separate topical articles for better cohesion
 

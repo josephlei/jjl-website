@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-####**Updated 2015-09-21**
+#### **Updated 2015-09-21**
 
 ### The Backstory
 I found out I was red/green colorblind sometime in elementary school and never thought much of it.  Being colorblind doesn't mean I can't see the color and miss out on holidays like Christmas; more so it means that I have a hard time telling the two apart when the hues are similar. Until recently, this "disability" didn't really affect me in any significant way except my friends would constantly ask me what color things were; I could/can see traffic lights just fine and so on.
@@ -41,8 +41,8 @@ Below are two pictures showing the before and after, markedly different.  The be
 I hope this article has been fun and that it will be helpful for others who have the same issue with colors. If you know any "color challenged" people, please feel free to share this with them :)
 `:wq`
 
-###**BEFORE**
+### **BEFORE**
 ![before](/assets/colorblind_before.png)
 
-###**AFTER**
+### **AFTER**
 ![after](/assets/colorblind_after.png)

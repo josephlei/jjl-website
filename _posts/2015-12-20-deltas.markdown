@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-####**Updated 2015-12-20**
+#### **Updated 2015-12-20**
 
 ### Deltas make the world go 'round
 

@@ -12,7 +12,7 @@ A word of caution, both the SAS Base and SAS Advanced Certifications are **hard*
 
 The advanced certification exam tests understanding of three courses: SQL 1, Macro 1 and Programming 3.
 
-####**Updated 2015-09-11**
+#### **Updated 2015-09-11**
 
 #### Legend of the abbreviations I use
 * Mvar = Macro Variable
