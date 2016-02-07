@@ -1,23 +1,23 @@
 ---
 layout: post
 title: "Daily Goals"
-date: 2016-02-06
+date: 2016-02-07
 categories: 
 published: true
 ---
 
+#### **Updated 2016-02-07**
+
 ### Accumulated wisdom from different places that Joseph is working on..
 
-#### **Updated 2016-02-06**
-
-1. Hone a sense of timing
+1. Hone and improve a sense of timing
 2. Stop saying "um, uh, you know, in a nutshell".. build "less is more" communication
-3. Learn Spanish, using children's TV shows, books and radio
-4. Get a professional headshot
+3. Learn Spanish, using children's TV shows, books and radio, ref: Netflix Gran Hotel
+4. Do professional headshot
 5. Upgrade wardrobe w/RK + ZB, Treat yo self
 6. Develop two trademark skills, ref: [Dilbert Author Scott Adams's Article on Career Advice](http://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
 
-### Misc thoughts that Joseph thinks about
+### Misc thoughts
 
 1. Consider the context, audience and framing of ideas
 2. Ambiguity is ok
