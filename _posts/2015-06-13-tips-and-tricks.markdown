@@ -14,6 +14,8 @@ published: true
 
 ##### This article is slowly being pieced out to separate topical articles for better cohesion
 
+to add space between markdown elements, use find `#(\*\*[a-z])` replace with un-named capture `# \1`
+
 wget --limit-rate=200k --no-clobber --convert-links --random-wait --domain=regular-expressions.info -r -p -E -e robots=off -U mozilla http://www.regular-expressions.info/
 The above line to dl regex website so i can convert it with css to colors i can see (r/g colorblind)
 
