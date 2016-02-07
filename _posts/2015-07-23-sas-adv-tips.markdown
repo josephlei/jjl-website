@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-###What I studied when preparing for the SAS Advanced Certification Exam
+### What I studied when preparing for the SAS Advanced Certification Exam
 
 A word of caution, both the SAS Base and SAS Advanced Certifications are **hard**.  If you're like me and felt that you've done all the practice questions.. do them again, and focus on in depth version or consider the most complicated way you can be asked a question or tested on a concept.
 
@@ -14,7 +14,7 @@ The advanced certification exam tests understanding of three courses: SQL 1, Mac
 
 ####**Updated 2015-09-11**
 
-####Legend of the abbreviations I use
+#### Legend of the abbreviations I use
 * Mvar = Macro Variable
 * Dx = Data or dataset
 * IDx = Input dataset

@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-###Takeaways from Ben Orenstein's talk on expert level VIM
+### Takeaways from Ben Orenstein's talk on expert level VIM
 
 ####**Updated 2015-09-22**
 
@@ -24,7 +24,7 @@ Ref: https://www.youtube.com/watch?v=SkdrYWhh-8s
 * direct seek/jump to a numbered line, do something like `14+G` (14 + shift + g) jumps you to line 14
 * learn motions (nouns) cmd (verbs)
 
-###Actions Taken
+### Actions Taken
 
 * bash_profile
  * `alias gis = 'git status'` potential future conflict w/carto tools, worry about it when i get there

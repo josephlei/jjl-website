@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-####The ones I'm working on integrating/muscle memorizing.. #nomousechallenge
+#### The ones I'm working on integrating/muscle memorizing.. # nomousechallenge
 
 ####**Updated 2015-09-06**
 

@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-###Information Overload
+### Information Overload
 
 As someone who strives to continue learning everyday, living in the 21st century is both a blessing and a curse. At no time in history has information and education been more accessible through open courseware, massive open online courses (MOOCs) and the proliferation of the internet. 
 
@@ -20,7 +20,7 @@ Very importantly, I have to often remind myself to consider the bigger picture o
 
 ####**Updated 2015-09-02**
 
-#####Personal note: I've moved a lot of items that were previously here to "Lower Priority Items," not because they're not important, but because I'm learning more about how I learn and trying to be honest with myself about what will make the biggest difference, beautifully referred to as "highest net present value" by Nir Kaldero of Galvanize Data Science.  On second thought, this is the crux of this entire article, prioritizing "what to learn first."
+##### Personal note: I've moved a lot of items that were previously here to "Lower Priority Items," not because they're not important, but because I'm learning more about how I learn and trying to be honest with myself about what will make the biggest difference, beautifully referred to as "highest net present value" by Nir Kaldero of Galvanize Data Science.  On second thought, this is the crux of this entire article, prioritizing "what to learn first."
 
 * Python 2.7
 * Python libraries: Pandas, Numpy, Sci-Kit Learn

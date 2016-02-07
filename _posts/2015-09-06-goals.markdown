@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-###Accumulated wisdom from different places that Joseph is working on.. 
+### Accumulated wisdom from different places that Joseph is working on.. 
 
 ####**Updated 2016-02-06**
 
@@ -17,7 +17,7 @@ published: true
 5. Upgrade wardrobe w/RK + ZB, Treat yo self
 6. Develop two trademark skills, ref: [Scott Adams's Article on Career Advice (Author of Dilbert)] (http://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
 
-###Misc thoughts that Joseph thinks about
+### Misc thoughts that Joseph thinks about
 
 1. Consider the context, audience and framing of ideas
 2. Ambiguity is ok

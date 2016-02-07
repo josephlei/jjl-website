@@ -8,7 +8,7 @@ published: true
 
 ####**Updated 2015-12-20**
 
-###Deltas make the world go 'round
+### Deltas make the world go 'round
 
 I've been meaning to write this article for a while, and it's been something I've been thinking about for a while on the backburner. In mathematics, greek delta (Δ) was first introduced to me in geometry.. or some class, as simply "the change." In the last two years, using Δ instead of writing delta has probably saved me hours and hours.. but more importantly, it made me consider the idea of delta on an abstract level.
 

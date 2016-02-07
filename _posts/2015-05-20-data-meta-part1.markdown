@@ -6,7 +6,7 @@ categories:
 published: false
 ---
 
-###Data Presentation for Code for Sacramento
+### Data Presentation for Code for Sacramento
 
 Data is an integral part of every business, society and encompasses every action we take as humans, even including the measurement of the pressure on keyboard key(s) as I type this, or the frequency of keystrokes.
 

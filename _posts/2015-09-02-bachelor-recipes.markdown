@@ -6,7 +6,7 @@ categories:
 published: true 
 ---
 
-###There are certain recipes a bachelor comes to know.. secrets rarely shared.. read on brave sojourner..
+### There are certain recipes a bachelor comes to know.. secrets rarely shared.. read on brave sojourner..
 
 ####**Updated 2015-09-21**
 

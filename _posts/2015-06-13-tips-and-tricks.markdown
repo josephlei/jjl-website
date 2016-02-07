@@ -6,13 +6,13 @@ categories:
 published: true
 ---
 
-###A random collection of useful bits I want to remember as I learn
+### A random collection of useful bits I want to remember as I learn
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
 ####**Updated 2015-09-19**
 
-#####This article is slowly being pieced out to separate topical articles for better cohesion
+##### This article is slowly being pieced out to separate topical articles for better cohesion
 
 wget --limit-rate=200k --no-clobber --convert-links --random-wait --domain=regular-expressions.info -r -p -E -e robots=off -U mozilla http://www.regular-expressions.info/
 The above line to dl regex website so i can convert it with css to colors i can see (r/g colorblind)

@@ -6,9 +6,9 @@ categories:
 published: true
 ---
 
-##SAS Fuzzy Notes for matching fuzzy names/dates/numbers
+## SAS Fuzzy Notes for matching fuzzy names/dates/numbers
 
-###Just the important stuff
+### Just the important stuff
 
 COMPLEV syntax:
 
