@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Daily Goals"
-date: 2016-02-07
+date: 2016-02-11
 categories: 
 published: true
 ---
@@ -11,17 +11,17 @@ published: true
 ### Accumulated wisdom from different places that Joseph is working on..
 
 1. Hone and improve a sense of timing
-2. Stop saying "um, uh, you know, in a nutshell".. build "less is more" communication
+2. Stop using filler phrases "um, uh, you know, in a nutshell".. build "less is more" communication
 3. Learn Spanish, using children's TV shows, books and radio, ref: Netflix Gran Hotel
 4. Do professional headshot
 5. Upgrade wardrobe w/RK + ZB, Treat yo self
 6. Develop two trademark skills, ref: [Dilbert Author Scott Adams's Article on Career Advice](http://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
+7. Connect people together, be inclusive and catalyze progress, innovation and friendship
 
 ### Misc thoughts
 
 1. Consider the context, audience and framing of ideas
-2. Ambiguity is ok
-3. Reading something twice, three times for comprehension is normal and ok
+2. Ambiguity is normal and ok, so is reading something twice, three times for comprehension
 4. Knowing an answer exists and where to find it get you 80% of the way there, technical implementation is the easy part
 5. Build good fences
 6. Planned, intentional work is exponentially powerful
