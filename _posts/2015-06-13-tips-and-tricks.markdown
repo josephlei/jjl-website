@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips and Tricks picked up along the way"
-date: 2015-09-19
+date: 2016-02-12
 categories: 
 published: true
 ---
@@ -10,9 +10,11 @@ published: true
 
 ####(Also.. so I can erase it off ALL THE WHITEBOARDS)
 
-#### **Updated 2015-09-19**
+#### **Updated 2016-02-12**
 
 ##### This article is slowly being pieced out to separate topical articles for better cohesion
+
+in a .css file, comments are `/* placed between these bookends */`
 
 to add space between markdown elements, use find `#(\*\*[a-z])` replace with un-named capture `# \1`
 
