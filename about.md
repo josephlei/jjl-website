@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-###Bio
+###Bio 
+
+![hs](/assets/hs.jpg){:height="50px" width="50px"}
 
 I am currently a Data Science Research Specialist with the State of California Department of Health Care Services, reporting on the progress of Medi-Cal and the implementation of the Affordable Care Act (ACA). The core of what I do is finding new ways to answer previously un-answerable questions when it comes to the Medi-Cal population of California. I use tools such as SAS server, Teradata, Python, SQL, Octave and am currently studying supvervised Machine Learning models to classify populations using existing data.
 
