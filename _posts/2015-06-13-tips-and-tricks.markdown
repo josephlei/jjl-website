@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Tips and Tricks picked up along the way"
-date: 2016-02-12
+date: 2016-01-31
 categories: 
 published: true
 ---
 
 ### A random collection of useful bits I want to remember as I learn
 
-####(Also.. so I can erase it off ALL THE WHITEBOARDS)
-
-#### **Updated 2016-02-12**
+#### (Also.. so I can erase it off ALL THE WHITEBOARDS)
 
 ##### This article is slowly being pieced out to separate topical articles for better cohesion
 

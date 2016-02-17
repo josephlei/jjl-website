@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Trending Projects + Descriptions"
+date: 2016-02-13
+categories: 
+published: true
+---
+
+### Medi-Cal universe clustering via unsupervised Machine Learning
+
+The Medi-Cal universe of California placeholder
+
+### CalHR Job Classification Clustering and Linkage
+
+The State of California currently publishes quite comprehensive data regarding existing civil service classifications, specifications and pay scales [on their website](http://www.calhr.ca.gov/state-hr-professionals/pages/pay-scales.aspx), in PDF form (items 15 and 17). There is the capability to search by job title or class code, but this only works if you know what you're searching for. 
+
+I am designing a way to visually cluster all CA job classifications by schema so when people are hired or looking, they can see related jobs in the same/related ladders, and by larger classifications such as "IT, Fire Protection, Legislative, Enginnering, Education." My intent is to help job seekers and current state employees visualize their current and potential future career paths, which can lead to a happier, more engaged work force as well as utilizing employees in their highest skillset vs. people hiring in just to have a job.
+
+
+### California civil service salaries with names
+
+The State of CA Controller's Office (SCO) currently publishes the salaries of civil servants in machine readable format in great detail; however this data is available with first and last names (ref: Sac Bee). I am interested in seeing this data as a flat file instead of only manually searchable. If office location GIS data is available, potential use case re: state worker density and linkage to state utility usage, fleet vehicle storage locations and distance via DGS open data portal.
+
+### City of Sacramento parking data, full version with usage and time series
+
+Calculate utilization rates, costs, maintenance, link in with traffic control data/flows, space availability.
+
+### 3D version of the game 1010!
+
+### Binary Y/N solver for 1010! given 3 blocks and a pre-defined game board
+
+### Iterative solver for Sudoku (3x3, then infinite NxN dimentional)
+
+### Infinite N-Dimensional Sudoku and solver (req: linear algebra)
