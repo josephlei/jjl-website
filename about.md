@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-###Bio 
+### Bio 
 
 ![hs](/assets/hs.jpg){:height="50px" width="50px"}
 
