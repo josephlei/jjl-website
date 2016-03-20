@@ -12,6 +12,9 @@ published: true
 
 ##### This article is slowly being pieced out to separate topical articles for better cohesion
 
+`cat *.csv > merged.csv` to merge all csv files in a directory into one file
+
+
 in a .css file, comments are `/* placed between these bookends */`
 
 to add space between markdown elements, use find `#(\*\*[a-z])` replace with un-named capture `# \1`
