@@ -6,4 +6,6 @@ categories:
 published: true
 ---
 
-### test pub header
+Today I was given the opportunity to visit a meeting of San Francisco's Department of Public Works 'STAT' management program, courtest of Principal Administrative Analyst *Alexandra B.* In brief, it is described as a 'performance management program that enables Public Works leadership and staff to work together to **monitor and improve the performance of core operational activities.**'
+
+### "A culture of Accountability"
