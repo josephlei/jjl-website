@@ -1,14 +1,10 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
+/* Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, 
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
-
-
 
 /* Basic styling */
 body {
@@ -21,11 +17,7 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
+/* Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -33,21 +25,13 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
-
-/**
- * Images
- */
+/* Images */
 img {
     max-width: 100%;
     vertical-align: middle;
 }
 
-
-
-/**
- * Figures
- */
+/* Figures */
 figure > img {
     display: block;
 }
@@ -56,11 +40,7 @@ figcaption {
     font-size: $small-font-size;
 }
 
-
-
-/**
- * Lists
- */
+/* Lists */
 ul, ol {
     margin-left: $spacing-unit;
 }
@@ -72,18 +52,12 @@ li {
     }
 }
 
-
-
-/**
- * Headings
- */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
-/**
- * Links
- */
+/* Links */
 a {
     color: $brand-color;
     text-decoration: none;
@@ -137,11 +111,7 @@ pre {
     }
 }
 
-
-
-/**
- * Wrapper
- */
+/* Wrapper */
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
