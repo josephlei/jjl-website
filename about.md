@@ -10,7 +10,7 @@ permalink: /about/
 
 #### Current
 
-I am currently the CA Open Data & Data Science lead with CA Dept of Technology's Office of Digital Innovation; a fancy way of saying I love opening data and finding ways we can apply Data Science make California better! More to come on this soon..!
+I am currently the *CA Open Data & Data Science Lead* with **CA Dept of Technology's Office of Digital Innovation**; a fancy way of saying I love opening data and finding ways we can apply Data Science to make California better! More to come on this soon..!
 
 #### Past Roles
 
