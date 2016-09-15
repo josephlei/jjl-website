@@ -8,17 +8,14 @@ published: true
 
 ### "A Culture of Accountability"
 ***
+&nbsp
 
 Today I was given the opportunity to visit a meeting of San Francisco's Department of Public Works 'STAT' management program, courtesy of Principal Administrative Analyst *Alexandra B.* In brief, it is described as:
 
 > "A performance management program that enables Public Works leadership and staff to work together to **monitor and improve the performance of core operational activities.**"
 
-**THIS IS NORMAL BODY TEXT - DELETE ME**
-
 #### Upon walking in I was greeted with a table containing packets with titles such as "Street Use & Mapping" and "BSES Street Cleaning" as well as eight wall mounted monitors displaying charts and graphs of all types. After a brief introduction and welcome to guests including myself, the meeting started underway facilitated by none other than Director Mohammed Nuru himself. 
 
-**THIS IS H4 STYLE DELETE ME**
+** THE ABOVE IS H4 STYLE DELETE ME **
 
-##### Different departmental managers *<u>and their staff leads</u>* presented the recent results of operational activities, explaining outliers and trends affected by special events or staffing disruptions. Being newly introduced to Public Works activities it was maybe more difficult to understand the nuances of what the charts, graphs and maps were presenting.  I was both encouraged and surprised at the efficiency with which data was being presented, strategically being "encapsulating" into a easy to digest form that decision makers could use. Director Nuru, being intimately familiar with the subject matter often asked poignant questions of his staff and was able to quickly re-adjust resources to target areas of need.
-
-**THIS IS H5 STYLE DELETE ME**
+Different departmental managers *<u>and their staff leads</u>* presented the recent results of operational activities, explaining outliers and trends affected by special events or staffing disruptions. Being newly introduced to Public Works activities it was maybe more difficult to understand the nuances of what the charts, graphs and maps were presenting.  I was both encouraged and surprised at the efficiency with which data was being presented, strategically being "encapsulating" into a easy to digest form that decision makers could use. Director Nuru, being intimately familiar with the subject matter often asked poignant questions of his staff and was able to quickly re-adjust resources to target areas of need.
