@@ -7,14 +7,11 @@ published: true
 ---
 
 ### "A Culture of Accountability"
-
-
 ***
-
 
 Today I was given the opportunity to visit a meeting of San Francisco's Department of Public Works 'STAT' management program, courtesy of Principal Administrative Analyst *Alexandra B.* In brief, it is described as:
 
-"A performance management program that enables Public Works leadership and staff to work together to **monitor and improve the performance of core operational activities.**"
+    "A performance management program that enables Public Works leadership and staff to work together to **monitor and improve the performance of core operational activities.**"
 
 **THIS IS NORMAL BODY TEXT - DELETE ME**
 
