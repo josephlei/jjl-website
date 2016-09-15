@@ -24,4 +24,5 @@ With vital information "encapsulated" into an easy to understand visual, Directo
 ***
 
 * [San Francisco DPW Stat - Case Study Document](http://sfcontroller.org/sites/default/files/FileCenter/Documents/6219-DPW%20Stat%20case.pdf)
-* permalinks
+  * Particular emphasis
+* pictures
