@@ -10,9 +10,7 @@ dl, dd, ol, ul, figure {
 
 
 
-/**
- * Basic styling
- */
+/* Basic styling */
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -83,8 +81,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
-
-
 /**
  * Links
  */
@@ -102,11 +98,7 @@ a {
     }
 }
 
-
-
-/**
- * Blockquotes
- */
+/* Blockquotes, which are defined by using right caret and a space (> ) */
 blockquote {
     /*color: $grey-color;*/    /*this is defined in main.scss*/
     color: DarkBlue;
@@ -121,11 +113,7 @@ blockquote {
     }
 }
 
-
-
-/**
- * Code formatting
- */
+/* Code formatting */
 pre,
 code {
     font-size: 15px;
@@ -171,11 +159,7 @@ pre {
     }
 }
 
-
-
-/**
- * Clearfix
- */
+/* Clearfix */
 %clearfix {
 
     &:after {
@@ -185,11 +169,7 @@ pre {
     }
 }
 
-
-
-/**
- * Icons
- */
+/* Icons */
 .icon {
 
     > svg {
