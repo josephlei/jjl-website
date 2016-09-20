@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "My visit to SF Public Works STAT"
+title: SF Public Works Stat, Driving Accountability!
 date: 2016-09-13
 categories: 
 published: true
 ---
 
-### "A Culture of Accountability"
+### Stat performance management programs drive informed decisions and an pre-existing framework to implement them is already available
 ***
 &nbsp;
 
@@ -18,11 +18,14 @@ Today I was given the opportunity to visit a meeting of San Francisco's Departme
 
 Different departmental managers *<u>and their staff leads</u>* presented the recent results of operational activities, explaining outliers and trends affected by special events or staffing disruptions. Being newly introduced to Public Works activities it was perhaps more difficult to understand the nuances of what the charts, graphs and maps were presenting; however I was encouraged and surprised at the efficiency with which data was presented. 
 
-With vital information "encapsulated" into an easy to understand visual, Director Nuru being intimately familiar with the subject matter quickly keyed on important points. As a group they discussed poignant questions, enabling the quick re-adjust of resources to target specific opportunities such as one specific abused trash bin next to a Safeway supermarket.
+With vital information "encapsulated" into an easy to understand visual, Director Nuru being intimately familiar with the subject matter quickly keyed on important metrics. As a group they discussed poignant questions, enabling the quick re-adjust of resources to target specific opportunities such as one specific abused trash bin next to a Safeway supermarket.
+
+**The framework for implementing stat programs is currently available from San Francisco and other gov entities; with prudent planning, training and stewardship stat programs could quickly improve California's open data transparency and understanding of Departmental performance indicators.**
 
 ### Resource & Reference Links
 ***
 
 * [San Francisco DPW Stat - Case Study Document](http://sfcontroller.org/sites/default/files/FileCenter/Documents/6219-DPW%20Stat%20case.pdf)
   * Particular emphasis
+* If you are affiliated with CA state and would like more information, please e-mail [joseph.lei@state.ca.gov](mailto:joseph.lei@state.ca.gov)
 * pictures
