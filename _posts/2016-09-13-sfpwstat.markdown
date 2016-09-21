@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-### Stat performance management programs drive informed decisions and an pre-existing framework to implement them is already available
+### Stat performance management programs drive informed decisions and a pre-existing framework to implement them is already available
 ***
 &nbsp;
 
@@ -26,7 +26,7 @@ With vital information "encapsulated" into an easy to understand visual, Directo
 ***
 
 * [San Francisco DPW Stat - Case Study Document](http://sfcontroller.org/sites/default/files/FileCenter/Documents/6219-DPW%20Stat%20case.pdf), emphasis:
-  * page 01 (pdf page 04)
+  * [Page 01 - Executive Summary](http://sfcontroller.org/sites/default/files/FileCenter/Documents/6219-DPW%20Stat%20case.pdf#page=4)
   * page 02 (pdf page 05)
   * page 03 (pdf page 06)
   * page 04 (pdf page 07)
