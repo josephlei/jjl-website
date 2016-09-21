@@ -10,7 +10,7 @@ published: true
 ***
 &nbsp;
 
-<center><img src="/assets/dpwstat.jpg" width="400"></center>
+<center><img src="/assets/dpwstat.jpg" width="100%"></center>
 
 Today I was given the opportunity to visit a meeting of San Francisco's Department of Public Works 'STAT' management program, courtesy of Principal Administrative Analyst *Alexandra B.* In brief, it is described as:
 
