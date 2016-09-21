@@ -25,6 +25,12 @@ With vital information "encapsulated" into an easy to understand visual, Directo
 ### Resource & Reference Links
 ***
 
-* [San Francisco DPW Stat - Case Study Document](http://sfcontroller.org/sites/default/files/FileCenter/Documents/6219-DPW%20Stat%20case.pdf)
-* If you are affiliated with CA state and would like more information, please e-mail [joseph.lei@state.ca.gov](mailto:joseph.lei@state.ca.gov)
-* Pictures?
+* [San Francisco DPW Stat - Case Study Document](http://sfcontroller.org/sites/default/files/FileCenter/Documents/6219-DPW%20Stat%20case.pdf), emphasis:
+  * page 01 (pdf page 04)
+  * page 02 (pdf page 05)
+  * page 03 (pdf page 06)
+  * page 04 (pdf page 07)
+  * page 13 (pdf page 16)
+  * page 18 (pdf page 21)
+  * page 19 (pdf page 22)
+* If you are affiliated with CA, e-mail [joseph.lei@state.ca.gov](mailto:joseph.lei@state.ca.gov) for more info
